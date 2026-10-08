@@ -1,8 +1,15 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-08T02:37:42.401853+00:00",
-  "story_count": 61,
+  "last_updated": "2026-10-08T17:42:37.317866+00:00",
+  "story_count": 64,
   "stories": [
+    {
+      "title": "ปัดฝุ่น ท้องฟ้าจำลองโคราช หลังปัญหาอื้อ-ไม่ได้ใช้กว่า 14 ปี อบจ. MOU สดร.ตั้งศูนย์เรียนรู้ จ่อเปิดปี 72",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/region/news_5924711",
+      "published_date": "2026-10-08T13:04:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ministry of Foreign Affairs confirms Thailand adheres to joint statement Urges Cambodia to stop using the world stage Giving uncreative news",
       "source": "Matichon",
@@ -44,6 +51,13 @@
       "url": "https://prachatai.com/journal/2026/10/118990",
       "published_date": "2026-10-04T09:40:33+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Queen makes first solo flight in Gripen fighter jet",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3333609/queen-makes-first-solo-flight-in-gripen-fighter-jet",
+      "published_date": "2026-10-08T09:48:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Centara unveils Global Payments alliance",
@@ -116,6 +130,13 @@
       "category": "Military"
     },
     {
+      "title": "Ex-PTTEP executive in Rolls-Royce bribery case found in Indonesia",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3333665/expttep-executive-in-rollsroyce-bribery-case-found-in-indonesia",
+      "published_date": "2026-10-08T12:40:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "SPRC joins forces with Caltex to share generosity by giving gas cards. Support the Department of Energy Business Forwarded in the mission to help flood victims",
       "source": "Thai Post",
       "url": "https://www.thaipost.net/public-relations-news/1084270/",
@@ -149,6 +170,48 @@
       "url": "https://www.sanook.com/news/9908538/",
       "published_date": "2026-10-07T02:40:25+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "ตำรวจท่องเที่ยวคุมเข้มสุวรรณภูมิ รับประชุมใหญ่ IMF–ธนาคารโลก ย้ำดูแลความปลอดภัย–ป้องกันสัมภาระสูญหาย",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/local/crime/news_5925149",
+      "published_date": "2026-10-08T15:37:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "อนุทิน ขอบคุณ เนเน่ แชมป์ AGT ร่วมโชว์งาน IMF-World Bank หยอดมุก หนูหนู ฝีมือสู้ไม่ได้",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5924867",
+      "published_date": "2026-10-08T12:13:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Authorities search Jewish buildings in Bangkok",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3333653/authorities-search-jewish-buildings-in-bangkok",
+      "published_date": "2026-10-08T11:54:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Philippines-bound ‘ice’ seized in Gulf of Thailand",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3333568/philippinesbound-ice-seized-in-gulf-of-thailand",
+      "published_date": "2026-10-08T07:58:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thailand floats idea of B1,000 air departure tax",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3333563/thailand-floats-idea-of-b1000-air-departure-tax",
+      "published_date": "2026-10-08T07:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Flood impact dents consumer confidence",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3333548/flood-impact-dents-consumer-confidence",
+      "published_date": "2026-10-08T05:29:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Today's gold price (8 Oct. '26) increased by 100 baht, gold jewelry 66,650 baht.",
@@ -249,46 +312,60 @@
       "category": "Economy"
     },
     {
-      "title": "The FTI adjusts GDP growth to 2.1-2.5%, showing 4 pillars at the IMF stage, highlighting the vision of 'Thailand's new horizon'.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5923414",
-      "published_date": "2026-10-07T23:40:51+00:00",
-      "category": "Economy"
+      "title": "Armed man surrenders after asking to hug mother, wife",
+      "source": "Khaosod",
+      "url": "https://www.khaosodenglish.com/featured/2026/10/08/armed-man-surrenders-after-asking-to-hug-mother-wife/",
+      "published_date": "2026-10-08T15:17:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Draft law offers novel incentives",
+      "title": "Armed man sparks standoff outside condo in Nonthaburi",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/featured/2026/10/08/armed-man-sparks-standoff-outside-condo-in-nonthaburi/",
+      "published_date": "2026-10-08T10:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "13-year-old boy attacked by giant snakehead fish while playing with fry",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/featured/2026/10/08/13-year-old-boy-attacked-by-giant-snakehead-fish-while-playing-with-fry/",
+      "published_date": "2026-10-08T10:52:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thailand begins extradition process against Chinese journalist",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3333275/draft-law-offers-novel-incentives",
-      "published_date": "2026-10-07T23:17:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3333630/thailand-begins-extradition-process-against-chinese-journalist",
+      "published_date": "2026-10-08T10:45:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Analysts predict SET to reach 1,680 by year-end",
+      "title": "Worker killed in crane accident at Bangkok construction site",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/investment/3333435/analysts-predict-set-to-reach-1680-by-yearend",
-      "published_date": "2026-10-07T23:16:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3333613/worker-killed-in-crane-accident-at-bangkok-construction-site",
+      "published_date": "2026-10-08T09:28:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bitcoin price today (Oct. 8) dropped 2.74% to $83,185.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2078054",
-      "published_date": "2026-10-07T23:14:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Regulator beefs up cyber-resilience measures",
+      "title": "Drug-hunting police officers ‘take out the trash’",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3333375/regulator-beefs-up-cyberresilience-measures",
-      "published_date": "2026-10-07T23:13:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3333580/drughunting-police-officers-take-out-the-trash",
+      "published_date": "2026-10-08T08:32:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ekniti pushes to create a 'New Chapter' for Thailand and Japan, promoting the Quality Investment strategy to meet 4 global challenges.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5923661",
-      "published_date": "2026-10-07T23:00:02+00:00",
-      "category": "Economy"
+      "title": "South Korean gambling ring busted in Bangkok",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3333560/south-korean-gambling-ring-busted-in-bangkok",
+      "published_date": "2026-10-08T07:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Severe flooding persists in East as new storms loom",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3333539/severe-flooding-persists-in-east-as-new-storms-loom",
+      "published_date": "2026-10-08T05:34:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Pakorn' encourages civil servants to break down government silos!",
@@ -372,62 +449,6 @@
       "source": "Matichon",
       "url": "https://www.matichon.co.th/region/news_5923725",
       "published_date": "2026-10-08T01:23:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Father is shocked when his 17-year-old son was riding his motorcycle back from tutoring when he hit the back of an 18-wheeler and died tragically.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10429576",
-      "published_date": "2026-10-08T01:05:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pep prepares to return to the Etihad for the first time After leaving Man City Watch the PSG game",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/sport/footballinter/news_5923699",
-      "published_date": "2026-10-08T01:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Acting Governor Point out your concerns and bounce back to the district chief. You can ask the village headman or village chief. The public sector encourages villagers to build A rowboat invades the city hall.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5923700",
-      "published_date": "2026-10-08T00:55:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lamphun is the first province to meet the new insurance criteria. Registered and waited 15 days to get money.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5923712",
-      "published_date": "2026-10-08T00:53:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester City is confident of winning the case for violating financial rules - believes justice will be in its favour.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/sports/news_10429574",
-      "published_date": "2026-10-08T00:52:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A female driver of a Mew-Seven fell 10 meters from a bridge over a canal. The car was completely destroyed, 3 seriously injured.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10429547",
-      "published_date": "2026-10-08T00:34:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Increase the penalty for driverless robotaxi blocking the road of an emergency vehicle.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/automotive/news-2076663",
-      "published_date": "2026-10-08T00:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strong Thai! Ranked among the world's top ten innovations in many areas.",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/general-news/1084246/",
-      "published_date": "2026-10-08T00:26:06+00:00",
       "category": "Local Events"
     }
   ]
