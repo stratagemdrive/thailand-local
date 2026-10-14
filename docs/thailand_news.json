@@ -1,8 +1,15 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-13T17:50:56.962801+00:00",
-  "story_count": 96,
+  "last_updated": "2026-10-14T01:47:26.886226+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Raid frees exploited Myanmar children",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3336545/raid-frees-exploited-myanmar-children",
+      "published_date": "2026-10-13T21:10:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Royal Thai Embassy in Riyadh has issued a second warning notice regarding the attack on the airport.",
       "source": "Khaosod",
@@ -57,6 +64,13 @@
       "source": "Thai Post",
       "url": "https://www.thaipost.net/hi-light/1085758/",
       "published_date": "2026-10-10T00:05:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ไทย-ติมอร์ฯ เร่งสรุป MOU ค้าข้าว “ศุภจี” เปิดทางเกษตร-อาหารแปรรูปขยายตลาด",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/economic/news-2079244",
+      "published_date": "2026-10-09T13:45:27+00:00",
       "category": "Diplomacy"
     },
     {
@@ -396,6 +410,90 @@
       "category": "Energy"
     },
     {
+      "title": "‘เอกภพ’ ตีปี๊บเวทีไอเอ็มเอฟเปลี่ยนโฉมประเทศ!",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/economy-news/1088112/",
+      "published_date": "2026-10-14T01:24:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ไทยเปิดตัว Bangkok Blueprint ในเวทีประชุมไอเอ็มเอฟวันนี้",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/economy-news/1088086/",
+      "published_date": "2026-10-14T00:03:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "คลังปัดฝุ่น ‘Exit Tax’ เล็งเก็บภาษีเที่ยวนอก 1,000 บาท ทั้งคนไทย-ต่างชาติ",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5930605",
+      "published_date": "2026-10-13T23:00:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Warning over outbound tax's potential impact on tourism",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336600/warning-over-outbound-taxs-potential-impact-on-tourism",
+      "published_date": "2026-10-13T22:41:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bad loans pressure banking sector",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336610/bad-loans-pressure-banking-sector",
+      "published_date": "2026-10-13T22:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister targets companies linked to contamination",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3336520/minister-targets-companies-linked-to-contamination",
+      "published_date": "2026-10-13T22:13:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Local market moving towards greater maturity",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336615/local-market-moving-towards-greater-maturity",
+      "published_date": "2026-10-13T21:47:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Four held in industrial waste seizures",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3336445/four-held-in-industrial-waste-seizures",
+      "published_date": "2026-10-13T21:12:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business leaders told to adapt or fall behind",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336705/business-leaders-told-to-adapt-or-fall-behind",
+      "published_date": "2026-10-13T20:49:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SME D Bank set to miss lending target amid sluggish economy",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336715/sme-d-bank-set-to-miss-lending-target-amid-sluggish-economy",
+      "published_date": "2026-10-13T20:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Guide to a successful salary conversation",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336660/guide-to-a-successful-salary-conversation",
+      "published_date": "2026-10-13T18:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Putting venture capital to better use",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336700/putting-venture-capital-to-better-use",
+      "published_date": "2026-10-13T18:01:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Pet Fair South East Asia 2026 brings the global pet industry together in Bangkok",
       "source": "Bangkok Post",
       "url": "https://www.bangkokpost.com/business/general/3322005/pet-fair-south-east-asia-2026-brings-the-global-pet-industry-together-in-bangkok",
@@ -452,88 +550,53 @@
       "category": "Economy"
     },
     {
-      "title": "A young woman opens a replay clip and watches the ceremony. She is stunned to see hair and thread. Attached to the medium's nails Before falling comes the eggs that were cracked.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10436204",
-      "published_date": "2026-10-13T14:09:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "IMF warns of future shocks risk",
+      "title": "BoI urges more Japanese high-tech investments",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336305/imf-warns-of-future-shocks-risk",
-      "published_date": "2026-10-13T13:15:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/business/investment/3336620/boi-urges-more-japanese-hightech-investments",
+      "published_date": "2026-10-13T22:46:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "IMF warns AI stocks threaten stability",
+      "title": "Suchada faces asset scrutiny",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336310/imf-warns-ai-stocks-threaten-stability",
-      "published_date": "2026-10-13T12:30:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/politics/3336550/suchada-faces-asset-scrutiny",
+      "published_date": "2026-10-13T22:24:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BoT chief envisions 2.3% growth",
+      "title": "PM says text of censure motion hazy",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336303/bot-chief-envisions-23-growth",
-      "published_date": "2026-10-13T12:24:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/politics/3336390/pm-says-text-of-censure-motion-hazy",
+      "published_date": "2026-10-13T22:21:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Thai pitch for bridge role",
+      "title": "Scam crackdowns net 39 suspects",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336300/thai-pitch-for-bridge-role",
-      "published_date": "2026-10-13T12:23:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3336490/scam-crackdowns-net-39-suspects",
+      "published_date": "2026-10-13T22:06:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The BoT joins with the IMF-World Bank to set up 12 frameworks to deter global financial fraud.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/economics/news_10436137",
-      "published_date": "2026-10-13T12:02:42+00:00",
-      "category": "Economy"
+      "title": "Thailand urged to build foundations for AI hub",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336670/thailand-urged-to-build-foundations-for-ai-hub",
+      "published_date": "2026-10-13T21:43:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Open the property account of former Minister Thanakorn Wang Boonkhongchana, rich 2,500 million, spouse's investment 1,500 million.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5931443",
-      "published_date": "2026-10-13T11:48:59+00:00",
-      "category": "Economy"
+      "title": "Unsit says flood funds 'sufficient'",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3336410/unsit-says-flood-funds-sufficient",
+      "published_date": "2026-10-13T21:25:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "IMF-World Bank meetings expected to generate up to 2.25 billion baht for Thailand",
-      "source": "Khaosod",
-      "url": "https://www.khaosodenglish.com/tech/2026/10/13/imf-world-bank-meetings-expected-to-generate-up-to-2-25-billion-baht-for-thailand/",
-      "published_date": "2026-10-13T11:46:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Open a picture of a patient's case where the parasite was coiled under the skin until it bulged. Found a history of walking barefoot in rice fields.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/special-stories/news_10436107",
-      "published_date": "2026-10-13T11:32:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ekniti delighted with IMF-World Bank's response to Thailand more than expected. The highest was arranged in hopes of pushing GDP to grow 3% plus.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5931391",
-      "published_date": "2026-10-13T11:07:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Confused about 3-year-old child \"going to bed early\" after having a babysitter Mom secretly caught the camera and found out the truth. Increase your salary to double!",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9908962/",
-      "published_date": "2026-10-13T07:53:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "สุรศักดิ์ ชี้ประชุม IMF หนุนท่องเที่ยวไทย มั่นใจ ปีนี้นทท.ฟื้นใกล้ปีก่อน คาดปีหน้าโตต่อเนื่อง",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5930499",
-      "published_date": "2026-10-13T03:08:54+00:00",
-      "category": "Economy"
+      "title": "Businesses urged to boost risk management",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336665/businesses-urged-to-boost-risk-management",
+      "published_date": "2026-10-13T21:04:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "This is our country",
@@ -554,6 +617,13 @@
       "source": "Khaosod",
       "url": "https://www.khaosod.co.th/around-thailand/news_10436227",
       "published_date": "2026-10-13T16:36:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘โค้ชเตี้ย’ มองเวทีฟุตบอลเยาวชน Prime Minister’s Youth CUP คือเวทีของเด็กที่มีฝันและอาจได้เพชรเม็ดงาม",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/sport/thai-sport/news_5930923",
+      "published_date": "2026-10-13T15:00:06+00:00",
       "category": "Local Events"
     },
     {
@@ -617,62 +687,6 @@
       "source": "Khaosod",
       "url": "https://www.khaosod.co.th/around-thailand/news_10436094",
       "published_date": "2026-10-13T12:42:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three arrested over Pattaya call-centre scam targeting previous fraud victims",
-      "source": "Khaosod",
-      "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/10/13/three-arrested-over-pattaya-call-centre-scam-targeting-previous-fraud-victims/",
-      "published_date": "2026-10-13T12:32:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Academics are concerned that amendments to the Thai Health Promotion Foundation Act will affect the mission of disease prevention. Before illness-treatment",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10436181",
-      "published_date": "2026-10-13T12:19:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Suchart\" ordered the Office of the Civil Service Commission to inspect a warehouse in Rayong Province, found electronic circuit boards mixed with recycled materials, and seized the seized items.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/politics/news_10436144",
-      "published_date": "2026-10-13T12:13:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "INHPF issues a statement highlighting Thai Health Promotion Foundation as an example of specific financial mechanisms. Promote long-term health",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/monitor-news/news_10436141",
-      "published_date": "2026-10-13T12:11:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why isn't the \"Dead Sea\" considered a sea? Once you know it, you'll understand the name that's been called for a long time!",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9909002/",
-      "published_date": "2026-10-13T12:08:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ratchaburi Commander Not getting enough light, the issue of the 'accused's mother' falling into an abandoned well next to the police station and dying. While coming to bail out the child",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5931432",
-      "published_date": "2026-10-13T12:07:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thai-German pilot injured in small plane crash near Pattaya airfield",
-      "source": "Khaosod",
-      "url": "https://www.khaosodenglish.com/news/2026/10/13/thai-german-pilot-injured-in-small-plane-crash-near-pattaya-airfield/",
-      "published_date": "2026-10-13T11:46:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paradorn discusses with NACC - Metropolitan Police Bureau after \"Phonpee\" arrested a famous pub in Khao San. The police were found to be involved and a committee was set up to investigate.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/crime/news_10436125",
-      "published_date": "2026-10-13T11:38:15+00:00",
       "category": "Local Events"
     }
   ]
