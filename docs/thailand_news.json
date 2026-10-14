@@ -1,8 +1,22 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-14T01:47:26.886226+00:00",
-  "story_count": 98,
+  "last_updated": "2026-10-14T15:40:12.992086+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Thai FM: No concern over Chinese airbase in Laos",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/14/thai-fm-no-concern-over-chinese-airbase-in-laos/",
+      "published_date": "2026-10-14T09:08:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FM Sihasak says Chinese airfield in Laos poses no immediate concern",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3336939/fm-sihasak-says-chinese-airfield-in-laos-poses-no-immediate-concern",
+      "published_date": "2026-10-14T08:02:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Raid frees exploited Myanmar children",
       "source": "Bangkok Post",
@@ -92,41 +106,6 @@
       "source": "Prachachat Turakij",
       "url": "https://www.prachachat.net/news/news-2078526",
       "published_date": "2026-10-08T12:11:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ministry of Foreign Affairs confirms Thailand adheres to joint statement Urges Cambodia to stop using the world stage Giving uncreative news",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/foreign/news_5923620",
-      "published_date": "2026-10-07T14:49:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Thai-EU FTA approaches the finish line Speeding up negotiations to open the market Aiming to summarize results within this year.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5922511",
-      "published_date": "2026-10-07T06:11:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Thai-EU FTA enters final turn Remaining to open the market - policy issues Hope to close the deal within 2026.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2077567",
-      "published_date": "2026-10-07T06:07:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Increase opportunities for Thai products in EU commerce, accelerate the closing of the Thai-EU FTA deal at the end of this year.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/economics/news_10428494",
-      "published_date": "2026-10-07T06:00:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gathering the power of ASEAN women at the 2026 ASEAN Women Entrepreneurs Network Forum & Awards",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/biz-movement/public-relations/news-2077415",
-      "published_date": "2026-10-07T02:33:27+00:00",
       "category": "Diplomacy"
     },
     {
@@ -260,13 +239,6 @@
       "source": "Matichon",
       "url": "https://www.matichon.co.th/politics/news_5923632",
       "published_date": "2026-10-07T15:36:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Navy intercepts amphetamines along the Mekong River, seizing 520,000 tablets hidden in sacks. Speed up the hunt for participants in the movement.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5923599",
-      "published_date": "2026-10-07T14:26:07+00:00",
       "category": "Military"
     },
     {
@@ -410,17 +382,108 @@
       "category": "Energy"
     },
     {
-      "title": "‘เอกภพ’ ตีปี๊บเวทีไอเอ็มเอฟเปลี่ยนโฉมประเทศ!",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/economy-news/1088112/",
-      "published_date": "2026-10-14T01:24:59+00:00",
+      "title": "หนี้โลกพุ่ง 235% ของ GDP ‘AHF’ เสนอ 3 ข้อปฏิรูปหนี้โลก ดันกลุ่มประเทศกำลังพัฒนาเพิ่มงบดูแลสุขภาพ",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5933129",
+      "published_date": "2026-10-14T15:19:14+00:00",
       "category": "Economy"
     },
     {
-      "title": "ไทยเปิดตัว Bangkok Blueprint ในเวทีประชุมไอเอ็มเอฟวันนี้",
+      "title": "‘ที่นี่…เขามีอะไรกัน?’",
       "source": "Thai Post",
-      "url": "https://www.thaipost.net/economy-news/1088086/",
-      "published_date": "2026-10-14T00:03:20+00:00",
+      "url": "https://www.thaipost.net/columnist-people/1088806/",
+      "published_date": "2026-10-14T14:45:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Money laundering worldwide hits $6 trillion",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337015/money-laundering-worldwide-hits-6-trillion",
+      "published_date": "2026-10-14T13:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ผบช.ท่องเที่ยว นำสายตรวจจักรยาน ดูแลปลอดภัยย่านราชประสงค์-สยาม รับประชุม IMF–World Bank 2026",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/local/news_5933033",
+      "published_date": "2026-10-14T13:18:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Swiss president to visit Thailand",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337018/swiss-president-to-visit-thailand",
+      "published_date": "2026-10-14T13:09:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bangkok Blueprint “โอนเงินข้ามประเทศ” วางระบบป้องกันสแกมเมอร์ก่อน “เส้นเลือดใหญ่” ติดเชื้อ",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/world/news-2080950",
+      "published_date": "2026-10-14T12:36:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF forecasts Thailand growth at 2.1% in 2026, among ASEAN’s slowest",
+      "source": "Khaosod",
+      "url": "https://www.khaosodenglish.com/featured/2026/10/14/imf-forecasts-thailand-growth-at-2-1-in-2026-among-aseans-slowest/",
+      "published_date": "2026-10-14T12:29:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF chief urges Asean states to do more for the vulnerable",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337013/imf-chief-urges-asean-states-to-do-more-for-the-vulnerable",
+      "published_date": "2026-10-14T11:58:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Global anti-fraud plan unveiled",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337008/global-antifraud-plan-unveiled",
+      "published_date": "2026-10-14T11:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "เปิด 12 หลักการ Bangkok Blueprint สกัดภัยการเงิน-ไซเบอร์",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2080901",
+      "published_date": "2026-10-14T10:03:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "หัตถการยุคใหม่มาแรง หนุน THE KLINIQUE GROUP เติบโตเด่น",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/business/news-2080890",
+      "published_date": "2026-10-14T09:56:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "OECD ชี้ไทยจัด IMF-World Bank สะท้อนบทบาทเศรษฐกิจโลก ชวนร่วมกำหนดทิศทางอนาคต",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/politics/news-2080873",
+      "published_date": "2026-10-14T09:43:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ธปท. ชง ‘Bangkok Blueprint’ 5 เสาหลัก สกัดภัยการเงิน-ภัยไซเบอร์ หนุนทั่วโลกนำไปปรับใช้",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2080836",
+      "published_date": "2026-10-14T08:49:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UOB-Business Times รับเวที IMF-World Bank 2026 ดัน ‘เงินทุนยั่งยืน’ ขับเคลื่อนอาเซียน",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2080967",
+      "published_date": "2026-10-14T08:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Five key succession planning challenges",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336905/five-key-succession-planning-challenges",
+      "published_date": "2026-10-14T06:48:00+00:00",
       "category": "Economy"
     },
     {
@@ -459,95 +522,88 @@
       "category": "Economy"
     },
     {
-      "title": "Four held in industrial waste seizures",
+      "title": "สตง. ตรวจสอบ Thai PBS พบอะไรบ้าง สรุปข้อสังเกต-คำชี้แจง 2 ฝ่าย",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/news/news-2080648",
+      "published_date": "2026-10-14T13:34:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Southern Thailand braces for heavy rain",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3336445/four-held-in-industrial-waste-seizures",
-      "published_date": "2026-10-13T21:12:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3337023/southern-thailand-braces-for-heavy-rain",
+      "published_date": "2026-10-14T13:03:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Business leaders told to adapt or fall behind",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336705/business-leaders-told-to-adapt-or-fall-behind",
-      "published_date": "2026-10-13T20:49:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "SME D Bank set to miss lending target amid sluggish economy",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336715/sme-d-bank-set-to-miss-lending-target-amid-sluggish-economy",
-      "published_date": "2026-10-13T20:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Guide to a successful salary conversation",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336660/guide-to-a-successful-salary-conversation",
-      "published_date": "2026-10-13T18:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Putting venture capital to better use",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336700/putting-venture-capital-to-better-use",
-      "published_date": "2026-10-13T18:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pet Fair South East Asia 2026 brings the global pet industry together in Bangkok",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3322005/pet-fair-south-east-asia-2026-brings-the-global-pet-industry-together-in-bangkok",
-      "published_date": "2026-10-13T17:05:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Responding to 'Palad Keng' ashamed of cheating Anutin Amen spreads merit",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/one-newspaper/1087933/",
-      "published_date": "2026-10-13T17:01:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Thai economy soars 3% plus",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/one-newspaper/1087929/",
-      "published_date": "2026-10-13T17:01:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Thaksin squirmed. Seize property - ask for cleansing",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/dominate-the-situation-news/1087901/",
-      "published_date": "2026-10-13T17:01:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Save page 4",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/columnist-people/1087899/",
-      "published_date": "2026-10-13T17:01:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Seized electronic cigarettes worth more than 4 million baht being transported into Bangkok The person claims that 7,000 people were hired to deliver fruit to the Thai market.",
+      "title": "Thai Police Probe Hong Kong Sex Trafficking Network After 9 Thai Women Detained",
       "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10436221",
-      "published_date": "2026-10-13T15:40:49+00:00",
-      "category": "Economy"
+      "url": "https://www.khaosodenglish.com/news/international/2026/10/14/thai-police-probe-hong-kong-sex-trafficking-network-after-9-thai-women-detained/",
+      "published_date": "2026-10-14T11:47:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "A young man was arrested for stealing 27 gold chains totaling 3.2 million baht at a famous department store in Lat Krabang. Claimed to owe 100,000 baht in house rent.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/crime/news_5931558",
-      "published_date": "2026-10-13T15:38:40+00:00",
-      "category": "Economy"
+      "title": "อนุทิน คุย รองนายกฯรัสเซีย ดัน Thai-EAEU FTA ร่วมมือเกษตร-พลังงาน-เทคโนโลยี",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/politics/news-2080932",
+      "published_date": "2026-10-14T11:09:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "A young man carried a hammer and invaded a famous department store, stealing 27 gold strands worth more than 3 million, but couldn't escape and was caught immediately.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10436218",
-      "published_date": "2026-10-13T15:28:03+00:00",
-      "category": "Economy"
+      "title": "Beyond Excellence: How Bangkok Hospital Is Using Creativity to Build Trust",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3336805/beyond-excellence-how-bangkok-hospital-is-using-creativity-to-build-trust",
+      "published_date": "2026-10-14T10:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "State auditors query Thai PBS contracts",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3336960/state-auditors-query-thai-pbs-contracts",
+      "published_date": "2026-10-14T10:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Portuguese woman arrested in Phuket after nearly five-year overstay, police say",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/crime-crime/2026/10/14/portuguese-woman-arrested-in-phuket-after-nearly-five-year-overstay-police-say/",
+      "published_date": "2026-10-14T09:40:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "High-water alert at Khlong Luang Phaeng in Bangkok",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3336973/highwater-alert-at-khlong-luang-phaeng-in-bangkok",
+      "published_date": "2026-10-14T09:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chiang Mai officials inspect Jewish centre, find no wrongdoing",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/14/chiang-mai-officials-inspect-jewish-centre-find-no-wrongdoing/",
+      "published_date": "2026-10-14T09:31:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thai Airways offers new help after baggage crisis",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3336974/thai-airways-offers-new-help-after-baggage-crisis",
+      "published_date": "2026-10-14T09:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "พิธา ลิ้มเจริญรัตน์ ชวนอ่านเกมโลก ‘The Future of Thailand : Next Move’",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/biz-movement/news-2080176",
+      "published_date": "2026-10-14T09:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family of girl, 7, donates organs and corneas after fatal accident",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3336958/family-of-girl-7-donates-organs-and-corneas-after-fatal-accident",
+      "published_date": "2026-10-14T09:01:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "BoI urges more Japanese high-tech investments",
@@ -603,90 +659,6 @@
       "source": "Thai Post",
       "url": "https://www.thaipost.net/columnist-people/1087944/",
       "published_date": "2026-10-13T17:04:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Go see a doctor...think about the welfare state.",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/columnist-people/1087857/",
-      "published_date": "2026-10-13T17:03:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescue worker cries after being slapped in the face by a man resembling a policeman while helping an injured person. Just asking if you're drunk or not?",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10436227",
-      "published_date": "2026-10-13T16:36:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘โค้ชเตี้ย’ มองเวทีฟุตบอลเยาวชน Prime Minister’s Youth CUP คือเวทีของเด็กที่มีฝันและอาจได้เพชรเม็ดงาม",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/sport/thai-sport/news_5930923",
-      "published_date": "2026-10-13T15:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coordinate with Hong Kong police Expand the results of the transnational network procuring Thai women for prostitution",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/crime/news_10436212",
-      "published_date": "2026-10-13T14:55:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prachin River pollution crisis Dead fish everywhere - cages at a loss The province is about to order the closure of factories that repeat the same mistakes.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5931505",
-      "published_date": "2026-10-13T14:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hong Kong police crack down on prostitution ring Tsim Sha Tsui area More than 77 million baht in assets seized, 9 Thai women arrested",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5931469",
-      "published_date": "2026-10-13T13:52:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Democrat Party advises Deputy Spokesman of the Royal Thai Armed Forces to listen to Korn's proposal with awareness and learn the lessons of 1991, fearing that the Thai economy will 'regress and fall into the abyss'.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5931498",
-      "published_date": "2026-10-13T13:17:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Suwat' leads the Chart Pattana Party Laying a wreath on the occasion of 'Nawamintha Maharat Day' of the year 2026",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5931489",
-      "published_date": "2026-10-13T12:58:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Pure Heart Foundation joins with Bai Li to donate snacks to help with the flooding in Pak Tho District as a royal merit on Nawaminthracha Day.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/monitor-news/news_10436169",
-      "published_date": "2026-10-13T12:55:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police confirm listening to 'investigators' before setting criteria for receiving additional money Understand that the number of cases does not reflect the actual workload.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5931472",
-      "published_date": "2026-10-13T12:54:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Suksomruay\" is about to take legal action against \"Lawyer Aun\" for the issue of lawyer etiquette. After giving a slanderous interview",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/politics/news_10436163",
-      "published_date": "2026-10-13T12:47:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doctors warn 'boxed lunch' will help flood victims Don't forget to reduce the saltiness. Worried that the kidneys will work hard",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10436094",
-      "published_date": "2026-10-13T12:42:37+00:00",
       "category": "Local Events"
     }
   ]
