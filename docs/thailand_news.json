@@ -1,7 +1,7 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-14T15:40:12.992086+00:00",
-  "story_count": 94,
+  "last_updated": "2026-10-15T01:23:47.128768+00:00",
+  "story_count": 92,
   "stories": [
     {
       "title": "Thai FM: No concern over Chinese airbase in Laos",
@@ -228,18 +228,11 @@
       "category": "Military"
     },
     {
-      "title": "Centara unveils Global Payments alliance",
+      "title": "Power plant contracts set for extension amid supply crunch",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3333370/centara-unveils-global-payments-alliance",
-      "published_date": "2026-10-07T23:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Ministry of Justice confirms that Thai people can open gambling websites. If done outside the Thai border It's distorted news. Rome sent a message to the Rutthaphon to read.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5923632",
-      "published_date": "2026-10-07T15:36:07+00:00",
-      "category": "Military"
+      "url": "https://www.bangkokpost.com/business/general/3337258/power-plant-contracts-set-for-extension-amid-supply-crunch",
+      "published_date": "2026-10-14T20:54:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "'Chaiyut' reveals that in the first half of the year, sales of antiques purchases shrank 30%, oil prices are high and transportation costs soar. Press the purchase price Keep an eye on imported recycled waste",
@@ -375,24 +368,122 @@
       "category": "Energy"
     },
     {
-      "title": "MEA apologizes, explains cause of flooded areas and abnormal electricity bills Recently, the billing system was suspended for 27,000 cases.",
+      "title": "กบข. ชี้สังคมอายุยืนโจทย์ใหญ่ของโลก หนุนออมเร็ว-ลงทุนเหมาะสม ดันเงินทำงานต่อหลังเกษียณ",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/economics/news_10437661",
+      "published_date": "2026-10-15T00:07:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Geopolitical risks drive trade diversification efforts",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337138/geopolitical-risks-drive-trade-diversification-efforts",
+      "published_date": "2026-10-15T00:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Time for Thailand…คว้าโอกาสได้มั้ย",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2080401",
+      "published_date": "2026-10-14T23:32:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ดัน ‘แบงค็อกบลูพรินต์’ ปลุกทั่วโลกสู้ภัยดิจิทัล เอกนิติชงเวทีIMF",
       "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5926595",
-      "published_date": "2026-10-09T12:52:56+00:00",
-      "category": "Energy"
+      "url": "https://www.matichon.co.th/economy/news_5932819",
+      "published_date": "2026-10-14T23:20:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "หุ้นท่องเที่ยว-โรงแรมตีปีกรับอานิสงส์ประชุม ‘IMF-WB’",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2080278",
+      "published_date": "2026-10-14T23:09:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "นายกฯ เปิดทำเนียบ รับผู้ร่วมประชุม IMF – World Bank 2026 ชู soft power ไทย",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/politics/news-2081070",
+      "published_date": "2026-10-14T22:46:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thailand Post weathers economic turmoil",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337378/thailand-post-weathers-economic-turmoil",
+      "published_date": "2026-10-14T22:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Warning over massive losses from exit tax",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337203/warning-over-massive-losses-from-exit-tax",
+      "published_date": "2026-10-14T21:52:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Small firms urged to use data to unlock lending options",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337218/small-firms-urged-to-use-data-to-unlock-lending-options",
+      "published_date": "2026-10-14T21:43:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World Bank touts business dynamism for productivity",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337368/world-bank-touts-business-dynamism-for-productivity",
+      "published_date": "2026-10-14T21:41:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF urges Thailand to build up resilience",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337348/imf-urges-thailand-to-build-up-resilience",
+      "published_date": "2026-10-14T21:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Key bridge projects due to start in Songkhla, Krabi",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337308/key-bridge-projects-due-to-start-in-songkhla-krabi",
+      "published_date": "2026-10-14T21:08:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt makes first B2m disaster insurance payout",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337183/govt-makes-first-b2m-disaster-insurance-payout",
+      "published_date": "2026-10-14T20:56:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Suriya defends B8bn EV harvester scheme",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/politics/3337293/suriya-defends-b8bn-ev-harvester-scheme",
+      "published_date": "2026-10-14T20:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Phuket set to host global Pride conference in Oct",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337333/phuket-set-to-host-global-pride-conference-in-oct",
+      "published_date": "2026-10-14T19:08:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ex-Dem MP queries couple's assets amid controversy",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/politics/3337123/exdem-mp-queries-couples-assets-amid-controversy",
+      "published_date": "2026-10-14T18:23:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "หนี้โลกพุ่ง 235% ของ GDP ‘AHF’ เสนอ 3 ข้อปฏิรูปหนี้โลก ดันกลุ่มประเทศกำลังพัฒนาเพิ่มงบดูแลสุขภาพ",
       "source": "Matichon",
       "url": "https://www.matichon.co.th/economy/news_5933129",
       "published_date": "2026-10-14T15:19:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘ที่นี่…เขามีอะไรกัน?’",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/columnist-people/1088806/",
-      "published_date": "2026-10-14T14:45:51+00:00",
       "category": "Economy"
     },
     {
@@ -417,109 +508,32 @@
       "category": "Economy"
     },
     {
-      "title": "Bangkok Blueprint “โอนเงินข้ามประเทศ” วางระบบป้องกันสแกมเมอร์ก่อน “เส้นเลือดใหญ่” ติดเชื้อ",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/world/news-2080950",
-      "published_date": "2026-10-14T12:36:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "IMF forecasts Thailand growth at 2.1% in 2026, among ASEAN’s slowest",
-      "source": "Khaosod",
-      "url": "https://www.khaosodenglish.com/featured/2026/10/14/imf-forecasts-thailand-growth-at-2-1-in-2026-among-aseans-slowest/",
-      "published_date": "2026-10-14T12:29:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "IMF chief urges Asean states to do more for the vulnerable",
+      "title": "Federation puts flood losses at B6-7bn",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3337013/imf-chief-urges-asean-states-to-do-more-for-the-vulnerable",
-      "published_date": "2026-10-14T11:58:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/business/general/3337163/federation-puts-flood-losses-at-b67bn",
+      "published_date": "2026-10-14T21:57:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Global anti-fraud plan unveiled",
+      "title": "Stranded Muslim pilgrims to get emergency assistance",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3337008/global-antifraud-plan-unveiled",
-      "published_date": "2026-10-14T11:34:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3337263/stranded-muslim-pilgrims-to-get-emergency-assistance",
+      "published_date": "2026-10-14T21:26:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "เปิด 12 หลักการ Bangkok Blueprint สกัดภัยการเงิน-ไซเบอร์",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2080901",
-      "published_date": "2026-10-14T10:03:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "หัตถการยุคใหม่มาแรง หนุน THE KLINIQUE GROUP เติบโตเด่น",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/business/news-2080890",
-      "published_date": "2026-10-14T09:56:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "OECD ชี้ไทยจัด IMF-World Bank สะท้อนบทบาทเศรษฐกิจโลก ชวนร่วมกำหนดทิศทางอนาคต",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/politics/news-2080873",
-      "published_date": "2026-10-14T09:43:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "ธปท. ชง ‘Bangkok Blueprint’ 5 เสาหลัก สกัดภัยการเงิน-ภัยไซเบอร์ หนุนทั่วโลกนำไปปรับใช้",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2080836",
-      "published_date": "2026-10-14T08:49:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UOB-Business Times รับเวที IMF-World Bank 2026 ดัน ‘เงินทุนยั่งยืน’ ขับเคลื่อนอาเซียน",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2080967",
-      "published_date": "2026-10-14T08:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Five key succession planning challenges",
+      "title": "Thaksin's lawyer issued warning in amnesty bid",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336905/five-key-succession-planning-challenges",
-      "published_date": "2026-10-14T06:48:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/politics/3337223/thaksins-lawyer-issued-warning-in-amnesty-bid",
+      "published_date": "2026-10-14T20:28:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "คลังปัดฝุ่น ‘Exit Tax’ เล็งเก็บภาษีเที่ยวนอก 1,000 บาท ทั้งคนไทย-ต่างชาติ",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5930605",
-      "published_date": "2026-10-13T23:00:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Warning over outbound tax's potential impact on tourism",
+      "title": "No-confidence debate by month's end",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336600/warning-over-outbound-taxs-potential-impact-on-tourism",
-      "published_date": "2026-10-13T22:41:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bad loans pressure banking sector",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336610/bad-loans-pressure-banking-sector",
-      "published_date": "2026-10-13T22:36:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister targets companies linked to contamination",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3336520/minister-targets-companies-linked-to-contamination",
-      "published_date": "2026-10-13T22:13:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Local market moving towards greater maturity",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336615/local-market-moving-towards-greater-maturity",
-      "published_date": "2026-10-13T21:47:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/politics/3337188/noconfidence-debate-by-months-end",
+      "published_date": "2026-10-14T19:38:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "สตง. ตรวจสอบ Thai PBS พบอะไรบ้าง สรุปข้อสังเกต-คำชี้แจง 2 ฝ่าย",
@@ -631,34 +645,6 @@
       "source": "Bangkok Post",
       "url": "https://www.bangkokpost.com/thailand/general/3336490/scam-crackdowns-net-39-suspects",
       "published_date": "2026-10-13T22:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thailand urged to build foundations for AI hub",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336670/thailand-urged-to-build-foundations-for-ai-hub",
-      "published_date": "2026-10-13T21:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unsit says flood funds 'sufficient'",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3336410/unsit-says-flood-funds-sufficient",
-      "published_date": "2026-10-13T21:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Businesses urged to boost risk management",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3336665/businesses-urged-to-boost-risk-management",
-      "published_date": "2026-10-13T21:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is our country",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/columnist-people/1087944/",
-      "published_date": "2026-10-13T17:04:41+00:00",
       "category": "Local Events"
     }
   ]
