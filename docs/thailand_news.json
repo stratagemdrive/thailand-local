@@ -1,7 +1,7 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-15T01:23:47.128768+00:00",
-  "story_count": 92,
+  "last_updated": "2026-10-15T15:27:48.334330+00:00",
+  "story_count": 88,
   "stories": [
     {
       "title": "Thai FM: No concern over Chinese airbase in Laos",
@@ -92,20 +92,6 @@
       "source": "Matichon",
       "url": "https://www.matichon.co.th/politics/news_5925106",
       "published_date": "2026-10-08T23:04:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ปัดฝุ่น ท้องฟ้าจำลองโคราช หลังปัญหาอื้อ-ไม่ได้ใช้กว่า 14 ปี อบจ. MOU สดร.ตั้งศูนย์เรียนรู้ จ่อเปิดปี 72",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5924711",
-      "published_date": "2026-10-08T13:04:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“Hun Sen” agrees with “Surachat” about the government using Cambodian trends to support itself.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/news/news-2078526",
-      "published_date": "2026-10-08T12:11:48+00:00",
       "category": "Diplomacy"
     },
     {
@@ -211,20 +197,6 @@
       "source": "Khaosod",
       "url": "https://www.khaosod.co.th/around-thailand/news_10432182",
       "published_date": "2026-10-09T13:33:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "“Big Kai” leads a team of A.P.S. officials to travel to Ayutthaya, visiting Bang Sai war veterans, overcoming the floods, giving survival kits and financial assistance.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/monitor-news/news_10430909",
-      "published_date": "2026-10-08T14:29:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Queen makes first solo flight in Gripen fighter jet",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3333609/queen-makes-first-solo-flight-in-gripen-fighter-jet",
-      "published_date": "2026-10-08T09:48:00+00:00",
       "category": "Military"
     },
     {
@@ -368,10 +340,115 @@
       "category": "Energy"
     },
     {
-      "title": "กบข. ชี้สังคมอายุยืนโจทย์ใหญ่ของโลก หนุนออมเร็ว-ลงทุนเหมาะสม ดันเงินทำงานต่อหลังเกษียณ",
+      "title": "เครือข่ายประชาชน ปักหลักค้างคืนต้าน IMF-World Bank จี้รื้อโครงสร้างระบอบทุนนิยม",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5934666",
+      "published_date": "2026-10-15T15:12:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "16 ต.ค. MRT ประกาศ ปิดสถานีศูนย์ฯสิริกิติ์ 9.00-16.00 น. เข้มรับประชุม IMF",
       "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/economics/news_10437661",
-      "published_date": "2026-10-15T00:07:46+00:00",
+      "url": "https://www.khaosod.co.th/special-stories/news_10438976",
+      "published_date": "2026-10-15T14:42:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ไทยยกเวที ‘มวยไทย’ ชกจริงกลางงาน IMF–ธนาคารโลก โชว์ซอฟต์พาวเวอร์รับผู้นำการเงินโลก",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5934584",
+      "published_date": "2026-10-15T14:21:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "16 ต.ค.นี้ MRT ประกาศ ปิดสถานีศูนย์ฯสิริกิติ์ คุมเข้มความปลอดภัย รับประชุมIMF-World Bank",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5934558",
+      "published_date": "2026-10-15T13:32:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "อวยไทยเป็นเจ้าภาพที่ยอดเยี่ยม ชวนช้อปหนุนชุมชน-เศรษฐกิจท้องถิ่น",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/economics/news_10438816",
+      "published_date": "2026-10-15T12:19:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Government confident of economic strengths",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337658/government-confident-of-economic-strengths",
+      "published_date": "2026-10-15T11:07:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF urges action to avert fiscal crisis",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337643/imf-urges-action-to-avert-fiscal-crisis",
+      "published_date": "2026-10-15T10:48:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Media experts urge safeguards for Thai PBS",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337634/media-experts-urge-safeguards-for-thai-pbs",
+      "published_date": "2026-10-15T10:31:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Siam Piwat joins FUTURE-READY ECONOMY 2026 as strategic partner",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337555/siam-piwat-joins-futureready-economy-2026-as-strategic-partner",
+      "published_date": "2026-10-15T09:28:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Activists condemn police clash at anti-IMF protest, demand accountability",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/featured/2026/10/15/activists-condemn-police-clash-at-anti-imf-protest-demand-accountability/",
+      "published_date": "2026-10-15T08:58:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Swiss president making first Thai visit in 22 years",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337595/swiss-president-on-first-thai-visit-in-22-years",
+      "published_date": "2026-10-15T08:23:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Designing AI for the informal economy",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3335670/designing-ai-for-the-informal-economy",
+      "published_date": "2026-10-15T05:50:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Demonstrators stopped near IMF meeting venue",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337515/demonstrators-stopped-near-imf-meeting-venue",
+      "published_date": "2026-10-15T03:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "หุ้นไทยลุ้นแรงซื้อฝรั่งพยุง ‘กรุงศรี’ ชู 11 หุ้นเด่นรับน้ำมันพุ่ง-รัฐกระตุ้นเศรษฐกิจ",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2081107",
+      "published_date": "2026-10-15T02:39:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "จับตาเวที IMF-World Bank 2026…โอกาสท่ามกลาง‘ความท้าทาย’ ของโลก",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2080310",
+      "published_date": "2026-10-15T02:13:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘เงินผิดกฎหมาย’ กัดกร่อนเศรษฐกิจ เปิด AMLAC ต้านฟอกเงิน-คอร์รัปชัน นานาพันธมิตรพร้อมหนุน",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2081003",
+      "published_date": "2026-10-15T02:10:00+00:00",
       "category": "Economy"
     },
     {
@@ -389,13 +466,6 @@
       "category": "Economy"
     },
     {
-      "title": "ดัน ‘แบงค็อกบลูพรินต์’ ปลุกทั่วโลกสู้ภัยดิจิทัล เอกนิติชงเวทีIMF",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5932819",
-      "published_date": "2026-10-14T23:20:08+00:00",
-      "category": "Economy"
-    },
-    {
       "title": "หุ้นท่องเที่ยว-โรงแรมตีปีกรับอานิสงส์ประชุม ‘IMF-WB’",
       "source": "Prachachat Turakij",
       "url": "https://www.prachachat.net/finance/news-2080278",
@@ -410,102 +480,46 @@
       "category": "Economy"
     },
     {
-      "title": "Thailand Post weathers economic turmoil",
+      "title": "Israeli doctor faces legal action after smuggling 300 Thai plants in luggage",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/international/2026/10/15/israeli-doctor-faces-legal-action-after-smuggling-300-thai-plants-in-luggage/",
+      "published_date": "2026-10-15T10:35:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge python found after swallowing goats in Suphan Buri",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/life/2026/10/15/huge-python-found-after-swallowing-goats-in-suphan-buri/",
+      "published_date": "2026-10-15T09:58:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "76 deaths attributed to floods since mid-September",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3337378/thailand-post-weathers-economic-turmoil",
-      "published_date": "2026-10-14T22:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3337600/76-deaths-attributed-to-floods-since-midseptember",
+      "published_date": "2026-10-15T08:56:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Warning over massive losses from exit tax",
+      "title": "Former flight attendant arrested in Hat Yai over alleged migrant-smuggling network",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/15/former-flight-attendant-arrested-in-hat-yai-over-alleged-migrant-smuggling-network/",
+      "published_date": "2026-10-15T08:26:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chinese woman held on suspicion of people-smuggling",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3337203/warning-over-massive-losses-from-exit-tax",
-      "published_date": "2026-10-14T21:52:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3337593/chinese-woman-held-on-suspicion-of-peoplesmuggling",
+      "published_date": "2026-10-15T07:44:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Small firms urged to use data to unlock lending options",
+      "title": "Chinese fugitive with Privilege visa arrested in Phuket",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3337218/small-firms-urged-to-use-data-to-unlock-lending-options",
-      "published_date": "2026-10-14T21:43:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "World Bank touts business dynamism for productivity",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3337368/world-bank-touts-business-dynamism-for-productivity",
-      "published_date": "2026-10-14T21:41:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "IMF urges Thailand to build up resilience",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3337348/imf-urges-thailand-to-build-up-resilience",
-      "published_date": "2026-10-14T21:36:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Key bridge projects due to start in Songkhla, Krabi",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3337308/key-bridge-projects-due-to-start-in-songkhla-krabi",
-      "published_date": "2026-10-14T21:08:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Govt makes first B2m disaster insurance payout",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3337183/govt-makes-first-b2m-disaster-insurance-payout",
-      "published_date": "2026-10-14T20:56:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Suriya defends B8bn EV harvester scheme",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3337293/suriya-defends-b8bn-ev-harvester-scheme",
-      "published_date": "2026-10-14T20:34:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Phuket set to host global Pride conference in Oct",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3337333/phuket-set-to-host-global-pride-conference-in-oct",
-      "published_date": "2026-10-14T19:08:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ex-Dem MP queries couple's assets amid controversy",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3337123/exdem-mp-queries-couples-assets-amid-controversy",
-      "published_date": "2026-10-14T18:23:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "หนี้โลกพุ่ง 235% ของ GDP ‘AHF’ เสนอ 3 ข้อปฏิรูปหนี้โลก ดันกลุ่มประเทศกำลังพัฒนาเพิ่มงบดูแลสุขภาพ",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5933129",
-      "published_date": "2026-10-14T15:19:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Money laundering worldwide hits $6 trillion",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3337015/money-laundering-worldwide-hits-6-trillion",
-      "published_date": "2026-10-14T13:20:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "ผบช.ท่องเที่ยว นำสายตรวจจักรยาน ดูแลปลอดภัยย่านราชประสงค์-สยาม รับประชุม IMF–World Bank 2026",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5933033",
-      "published_date": "2026-10-14T13:18:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Swiss president to visit Thailand",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3337018/swiss-president-to-visit-thailand",
-      "published_date": "2026-10-14T13:09:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3337559/chinese-fugitive-with-privilege-visa-arrested-in-phuket",
+      "published_date": "2026-10-15T05:33:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Federation puts flood losses at B6-7bn",
@@ -603,48 +617,6 @@
       "source": "Bangkok Post",
       "url": "https://www.bangkokpost.com/thailand/general/3336974/thai-airways-offers-new-help-after-baggage-crisis",
       "published_date": "2026-10-14T09:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "พิธา ลิ้มเจริญรัตน์ ชวนอ่านเกมโลก ‘The Future of Thailand : Next Move’",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/biz-movement/news-2080176",
-      "published_date": "2026-10-14T09:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family of girl, 7, donates organs and corneas after fatal accident",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3336958/family-of-girl-7-donates-organs-and-corneas-after-fatal-accident",
-      "published_date": "2026-10-14T09:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BoI urges more Japanese high-tech investments",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/investment/3336620/boi-urges-more-japanese-hightech-investments",
-      "published_date": "2026-10-13T22:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suchada faces asset scrutiny",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3336550/suchada-faces-asset-scrutiny",
-      "published_date": "2026-10-13T22:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM says text of censure motion hazy",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3336390/pm-says-text-of-censure-motion-hazy",
-      "published_date": "2026-10-13T22:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scam crackdowns net 39 suspects",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3336490/scam-crackdowns-net-39-suspects",
-      "published_date": "2026-10-13T22:06:00+00:00",
       "category": "Local Events"
     }
   ]
