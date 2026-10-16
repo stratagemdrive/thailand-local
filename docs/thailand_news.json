@@ -1,7 +1,7 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-15T15:27:48.334330+00:00",
-  "story_count": 88,
+  "last_updated": "2026-10-16T01:09:37.448284+00:00",
+  "story_count": 87,
   "stories": [
     {
       "title": "Thai FM: No concern over Chinese airbase in Laos",
@@ -85,13 +85,6 @@
       "source": "Prachachat Turakij",
       "url": "https://www.prachachat.net/economic/news-2079244",
       "published_date": "2026-10-09T13:45:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Investigation of 18 Ministers of Foreign Affairs of the opposition to dismantle and annex the country, 'Sathit' asks to be expelled for 5 days.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5925106",
-      "published_date": "2026-10-08T23:04:06+00:00",
       "category": "Diplomacy"
     },
     {
@@ -198,6 +191,13 @@
       "url": "https://www.khaosod.co.th/around-thailand/news_10432182",
       "published_date": "2026-10-09T13:33:38+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Pundits call for use of farm land for wind energy projects",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337825/pundits-call-for-use-of-farm-land-for-wind-energy-projects",
+      "published_date": "2026-10-15T22:12:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Power plant contracts set for extension amid supply crunch",
@@ -333,11 +333,46 @@
       "category": "Energy"
     },
     {
-      "title": "Ex-PTTEP exec returned in 'Rolls' case",
+      "title": "Central banks urged to strive for clear communication",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3334548/expttep-exec-returned-in-rolls-case",
-      "published_date": "2026-10-09T21:54:00+00:00",
-      "category": "Energy"
+      "url": "https://www.bangkokpost.com/business/general/3337870/central-banks-urged-to-strive-for-clear-communication",
+      "published_date": "2026-10-15T22:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AI seen as key for developing nations",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337845/ai-seen-as-key-for-developing-nations",
+      "published_date": "2026-10-15T22:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF warns of economic storms",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3337735/imf-warns-of-economic-storms",
+      "published_date": "2026-10-15T22:27:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hotel, AoT stocks picked for growth by analysts",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337890/hotel-aot-stocks-picked-for-growth-by-analysts",
+      "published_date": "2026-10-15T22:03:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "อดีตประธาน กมธ.เศรษฐกิจฯ คาดจีดีพีไทยโต 2.5-3% สูงกว่า IMF ประเมิน ชี้ส่งออกอิเล็กทรอนิกส์หนุน ชู AI เพิ่มขีดแข่งขันอุตสาหกรรมไทย",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5934765",
+      "published_date": "2026-10-15T17:17:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "เครือข่ายประชาชน ยกระดับการเคลื่อนไหว ปักหลักค้างคืน ต้าน IMF-ธนาคารโลก ยื่น 7 ข้อเรียกร้องเร่งด่วน",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10439081",
+      "published_date": "2026-10-15T16:19:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "เครือข่ายประชาชน ปักหลักค้างคืนต้าน IMF-World Bank จี้รื้อโครงสร้างระบอบทุนนิยม",
@@ -438,46 +473,25 @@
       "category": "Economy"
     },
     {
-      "title": "จับตาเวที IMF-World Bank 2026…โอกาสท่ามกลาง‘ความท้าทาย’ ของโลก",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2080310",
-      "published_date": "2026-10-15T02:13:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘เงินผิดกฎหมาย’ กัดกร่อนเศรษฐกิจ เปิด AMLAC ต้านฟอกเงิน-คอร์รัปชัน นานาพันธมิตรพร้อมหนุน",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2081003",
-      "published_date": "2026-10-15T02:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Geopolitical risks drive trade diversification efforts",
+      "title": "Julapun rules out scrapping SSO board election",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3337138/geopolitical-risks-drive-trade-diversification-efforts",
-      "published_date": "2026-10-15T00:06:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3337945/julapun-rules-out-scrapping-sso-board-election",
+      "published_date": "2026-10-15T22:42:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Time for Thailand…คว้าโอกาสได้มั้ย",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2080401",
-      "published_date": "2026-10-14T23:32:17+00:00",
-      "category": "Economy"
+      "title": "Pheu Thai assures BJT of its support",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/politics/3337755/pheu-thai-assures-bjt-of-its-support",
+      "published_date": "2026-10-15T22:30:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "หุ้นท่องเที่ยว-โรงแรมตีปีกรับอานิสงส์ประชุม ‘IMF-WB’",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2080278",
-      "published_date": "2026-10-14T23:09:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "นายกฯ เปิดทำเนียบ รับผู้ร่วมประชุม IMF – World Bank 2026 ชู soft power ไทย",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/politics/news-2081070",
-      "published_date": "2026-10-14T22:46:15+00:00",
-      "category": "Economy"
+      "title": "BLA turns focus to longevity market",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3337980/bla-turns-focus-to-longevity-market",
+      "published_date": "2026-10-15T21:48:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli doctor faces legal action after smuggling 300 Thai plants in luggage",
@@ -596,27 +610,6 @@
       "source": "Khaosod English",
       "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/crime-crime/2026/10/14/portuguese-woman-arrested-in-phuket-after-nearly-five-year-overstay-police-say/",
       "published_date": "2026-10-14T09:40:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High-water alert at Khlong Luang Phaeng in Bangkok",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3336973/highwater-alert-at-khlong-luang-phaeng-in-bangkok",
-      "published_date": "2026-10-14T09:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chiang Mai officials inspect Jewish centre, find no wrongdoing",
-      "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/news/2026/10/14/chiang-mai-officials-inspect-jewish-centre-find-no-wrongdoing/",
-      "published_date": "2026-10-14T09:31:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thai Airways offers new help after baggage crisis",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3336974/thai-airways-offers-new-help-after-baggage-crisis",
-      "published_date": "2026-10-14T09:19:00+00:00",
       "category": "Local Events"
     }
   ]
