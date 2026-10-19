@@ -1,7 +1,7 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-18T14:12:13.497696+00:00",
-  "story_count": 95,
+  "last_updated": "2026-10-19T01:03:36.416858+00:00",
+  "story_count": 89,
   "stories": [
     {
       "title": "'Sihasak' reveals progress in UNCLOS discussions, urges Cambodia to be sincere in creating an atmosphere for negotiations.",
@@ -120,20 +120,6 @@
       "source": "Matichon",
       "url": "https://www.matichon.co.th/politics/news_5930166",
       "published_date": "2026-10-12T12:38:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Seasoned DNP vet named 'SDG Star'",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3335405/seasoned-dnp-vet-named-sdg-star",
-      "published_date": "2026-10-11T21:31:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A new playbook for Asean",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3335505/a-new-playbook-for-asean",
-      "published_date": "2026-10-11T20:03:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -361,32 +347,74 @@
       "category": "Energy"
     },
     {
-      "title": "Asean energy transition hinges on where capital can find returns",
+      "title": "Bangkok meetings offer economic boost",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3333629/asean-energy-transition-hinges-on-where-capital-can-find-returns",
-      "published_date": "2026-10-12T00:30:00+00:00",
-      "category": "Energy"
+      "url": "https://www.bangkokpost.com/business/general/3339578/bangkok-meetings-offer-economic-boost",
+      "published_date": "2026-10-18T22:38:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil prices today (12 Oct. '26) Check the latest diesel-gasohol prices.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2079555",
-      "published_date": "2026-10-12T00:14:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Renewable outlays to spike via new plan",
+      "title": "Computer price hikes continue into 2027",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3335430/renewable-outlays-to-spike-via-new-plan",
-      "published_date": "2026-10-11T21:10:00+00:00",
-      "category": "Energy"
+      "url": "https://www.bangkokpost.com/business/general/3339568/computer-price-hikes-continue-into-2027",
+      "published_date": "2026-10-18T22:21:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The oil is ready to explode! Open the full program with 12 pairs competing for 2 belts in the ONE Samurai 4 battle.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/sport/boxing/news_5927802",
-      "published_date": "2026-10-11T17:01:46+00:00",
-      "category": "Energy"
+      "title": "AI agents emerge as growth driver",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3339573/ai-agents-emerge-as-growth-driver",
+      "published_date": "2026-10-18T22:19:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Investment takes centre stage after curtain falls",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/investment/3339583/investment-takes-centre-stage-after-curtain-falls",
+      "published_date": "2026-10-18T21:47:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Restaurants promote Thai delicacies",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3339508/restaurants-promote-thai-delicacies",
+      "published_date": "2026-10-18T21:41:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Call for wellness reforms as global demand rises",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3339593/call-for-wellness-reforms-as-global-demand-rises",
+      "published_date": "2026-10-18T21:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Restaurants confront uncertain outlook",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3339518/restaurants-confront-uncertain-outlook",
+      "published_date": "2026-10-18T21:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Experts urge use of 'alternative data' for better credit checks",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3339483/experts-urge-use-of-alternative-data-for-better-credit-checks",
+      "published_date": "2026-10-18T21:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Online gambling crackdown deemed 'ineffective' by ex-MP",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/politics/3339358/online-gambling-crackdown-deemed-ineffective-by-exmp",
+      "published_date": "2026-10-18T21:03:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World Bank loans $200m",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3339448/world-bank-loans-200m",
+      "published_date": "2026-10-18T21:02:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Muji Pinklao is bigger than before, maintaining a simple concept. It really works.",
@@ -459,74 +487,46 @@
       "category": "Economy"
     },
     {
-      "title": "'Poonphong' lays out a framework for intensive work on 'Provincial Commerce - Commercial Ambassador'",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2081564",
-      "published_date": "2026-10-18T09:11:00+00:00",
-      "category": "Economy"
+      "title": "Flying solo: the trend of living alone",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3339643/flying-solo-the-trend-of-living-alone",
+      "published_date": "2026-10-18T22:28:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Go ahead and revive the \"Conch Shell Aquarium\" from an abandoned project for 18 years to a new landmark in Songkhla.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/real-estate/news-2082527",
-      "published_date": "2026-10-18T08:52:39+00:00",
-      "category": "Economy"
+      "title": "Dolphin conservation efforts broaden",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3339558/dolphin-conservation-efforts-broaden",
+      "published_date": "2026-10-18T22:08:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "5 questions to change your thinking and help SMEs see growth opportunities",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2081280",
-      "published_date": "2026-10-18T05:56:00+00:00",
-      "category": "Economy"
+      "title": "Ministry eyes extension to B40 promotion train tickets",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3339503/ministry-eyes-extension-to-b40-promotion-train-tickets",
+      "published_date": "2026-10-18T22:05:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "MJets points out that success comes from the 'people behind the scenes'",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/business/news-2081539",
-      "published_date": "2026-10-18T05:51:00+00:00",
-      "category": "Economy"
+      "title": "Traders in Khlong Chan Flats rebuild after historic floods",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3339493/traders-in-khlong-chan-flats-rebuild-after-historic-floods",
+      "published_date": "2026-10-18T21:22:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "TAT booms in domestic travel in Q4 with 7 airlines reducing ticket fares. 500 - pay 40,000 baht per bus",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/business/news-2081533",
-      "published_date": "2026-10-18T05:47:00+00:00",
-      "category": "Economy"
+      "title": "Probe into brazen Korat encroachment steps up",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3339553/probe-into-brazen-korat-encroachment-steps-up",
+      "published_date": "2026-10-18T21:10:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "140 years of Thai-Japanese relations, 40 companies firmly established their base, promoting 'Chiang Mai and Lamphun' as electronic production bases",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/local-economy/news-2082494",
-      "published_date": "2026-10-18T05:36:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'Fitness First' makes the biggest investment in 7 years, investing 330 million to expand and renovate branches.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/business/news-2081610",
-      "published_date": "2026-10-18T05:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ministry of Agriculture discusses with World Bank-ADB Managing the Chao Phraya River on the eastern side",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2081691",
-      "published_date": "2026-10-18T04:16:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Who really sets the rules of the digital market?",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/biz-movement/news-2082298",
-      "published_date": "2026-10-18T03:06:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Beef cattle in Phatthalung suffer huge losses, prices fall, government requests to control imports.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2081526",
-      "published_date": "2026-10-18T02:28:45+00:00",
-      "category": "Economy"
+      "title": "Rail travel to expand in 5 provinces",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3339478/rail-travel-to-expand-in-5-provinces",
+      "published_date": "2026-10-18T21:08:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Hypek-Kritsada' rises to victory at Home Race, Honda team moves forward to sweep the podium in 2 senior classes, BRIC Superbike Battle, Field 3",
@@ -624,48 +624,6 @@
       "source": "Prachachat Turakij",
       "url": "https://www.prachachat.net/economic/news-2082559",
       "published_date": "2026-10-18T11:52:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flood victims face delays",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3339274/flood-victims-face-delays",
-      "published_date": "2026-10-18T11:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ngam Sai arrested the former permanent secretary for making false documents into the Subdistrict Administrative Organization's administrative system. Forming the Thip 47 project, worth more than 70 million",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10441889",
-      "published_date": "2026-10-18T11:48:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pluak Daeng District Chief responds to the issue of MT2 raiding 4 KTV locations in Rayong without a license and being involved in receiving tribute.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10441887",
-      "published_date": "2026-10-18T11:47:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire breaks out at people's homes on U Thong Nok Road. Officials mobilize to control the fire.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5938093",
-      "published_date": "2026-10-18T11:39:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anutin leads the team to follow up on Suphan water management. Don't care about Mr. Project's taunting, he says he uses his brain, not his mouth.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5938087",
-      "published_date": "2026-10-18T11:33:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Muek reveals that the Tour of Thailand 2027 has been postponed to escape the PM dust. Chiang Rai has asked to reschedule it for 28 June - 7 July.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/sport/news_5937938",
-      "published_date": "2026-10-18T11:04:09+00:00",
       "category": "Local Events"
     }
   ]
