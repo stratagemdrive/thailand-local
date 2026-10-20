@@ -1,8 +1,29 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-20T01:39:49.824689+00:00",
-  "story_count": 89,
+  "last_updated": "2026-10-20T15:30:07.445175+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "เคลียร์ปม ‘พุทธิรังสีพิบูล-แตงโม ยูไนเต็ด’ ทำMOUใหม่ 6 เดือนดูผล",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/special-stories/news_10444666",
+      "published_date": "2026-10-20T12:32:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thailand, Cambodia agree to constructive communications in maritime talks",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/20/thailand-cambodia-agree-to-constructive-communications-in-maritime-talks/",
+      "published_date": "2026-10-20T09:40:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shenzhen offers discount fares, other perks to keep residents off roads during Apec summit",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3340359/shenzhen-offers-discount-fares-other-perks-to-keep-residents-off-roads-during-apec-summit",
+      "published_date": "2026-10-20T08:05:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Digital wallets lead to Cambodia scam",
       "source": "Bangkok Post",
@@ -123,27 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Thai FM: No concern over Chinese airbase in Laos",
-      "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/news/2026/10/14/thai-fm-no-concern-over-chinese-airbase-in-laos/",
-      "published_date": "2026-10-14T09:08:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM Sihasak says Chinese airfield in Laos poses no immediate concern",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3336939/fm-sihasak-says-chinese-airfield-in-laos-poses-no-immediate-concern",
-      "published_date": "2026-10-14T08:02:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Raid frees exploited Myanmar children",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3336545/raid-frees-exploited-myanmar-children",
-      "published_date": "2026-10-13T21:10:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "New Cold War tests Thai choices",
       "source": "Bangkok Post",
       "url": "https://www.bangkokpost.com/thailand/general/3340043/new-cold-war-tests-thai-choices",
@@ -235,18 +235,11 @@
       "category": "Military"
     },
     {
-      "title": "Who is he? Incredible man He's both a Navy SEAL, a Harvard doctor, and an astronaut. In one life!",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9909014/",
-      "published_date": "2026-10-13T13:17:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thai Air Force plans second phase of Gripen fighter jet purchase",
-      "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/news/2026/10/13/thai-air-force-plans-second-phase-of-gripen-fighter-jet-purchase/",
-      "published_date": "2026-10-13T09:18:56+00:00",
-      "category": "Military"
+      "title": "ฮารุดอท ชลบุรี เปิดตัวยิ่งใหญ่ ประกาศล่าแชมป์วอลเลย์บอลไทยแลนด์ลีก",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/sports/news_10444727",
+      "published_date": "2026-10-20T12:18:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Egco increases stake in US power plant",
@@ -340,11 +333,74 @@
       "category": "Energy"
     },
     {
-      "title": "'Chaiyut' reveals that in the first half of the year, sales of antiques purchases shrank 30%, oil prices are high and transportation costs soar. Press the purchase price Keep an eye on imported recycled waste",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5931482",
-      "published_date": "2026-10-13T13:06:46+00:00",
-      "category": "Energy"
+      "title": "EXIM BANK ผุดมาตรการช่วยลูกค้าน้ำท่วม สินเชื่อ 1 แสน ดอกเบี้ย 2% เสริมสภาพคล่อง",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2083668",
+      "published_date": "2026-10-20T13:04:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pattaya motorbike taxi riders say blue vests confuse tourists",
+      "source": "Khaosod",
+      "url": "https://www.khaosodenglish.com/news/transpo/2026/10/20/pattaya-motorbike-taxi-riders-say-blue-vests-confuse-tourists/",
+      "published_date": "2026-10-20T12:49:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "B44m seized in gambling case against MP Chonnaput",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3340414/b44m-seized-in-gambling-case-against-mp-chonnaput",
+      "published_date": "2026-10-20T11:58:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ปลุก “เงินนอน” เชียงใหม่ 3 แสนล้านปักหมุด Investment Hub ภาคเหนือ",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/economic/local-economy/news-2083477",
+      "published_date": "2026-10-20T08:50:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Real’ Chinese tourists won’t face kidnap risk, says minister",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3340355/real-chinese-tourists-wont-face-kidnap-risk-says-minister",
+      "published_date": "2026-10-20T08:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BiOST ชูไอเดียเศรษฐกิจแบบ Sustainomy ให้ผลตอบแทนคู่ขนาน โตแบบยั่งยืน",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/uncategorized/news-2083413",
+      "published_date": "2026-10-20T08:32:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Investigators question MP’s husband about gambling site shares",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3340339/investigators-question-mps-husband-about-gambling-site-shares",
+      "published_date": "2026-10-20T07:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The ‘Four Ps’ of business are not wrong, just outnumbered",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3340343/the-four-ps-of-business-are-not-wrong-just-outnumbered",
+      "published_date": "2026-10-20T07:02:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "เชียงใหม่เนื้อหอม! TCEB-CVI ผุดเวทีเจรจา หนุนระบบนิเวศนวัตกรรมล้านนา 2026",
+      "source": "Sanook News",
+      "url": "https://www.sanook.com/news/9909682/",
+      "published_date": "2026-10-20T06:18:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BJC's Sustainability Strategy Secures Supply Chains and Saves Long-Term Costs",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3324713/bjcs-sustainability-strategy-secures-supply-chains-and-saves-longterm-costs",
+      "published_date": "2026-10-20T04:34:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "'Ekniti' reveals 7 days with more than 15,000 workers behind the success of IMF/World Bank Group 2026",
@@ -417,74 +473,53 @@
       "category": "Economy"
     },
     {
-      "title": "Orange Line trials to start late next year",
+      "title": "EM DISTRICT เปลี่ยนสุขุมวิทให้กลายเป็น HAUNTED CARNIVAL ปล่อยความหลอนฮาโลวีน",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/lifestyle/news_5941230",
+      "published_date": "2026-10-20T12:56:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "เวทีภาคประชาสังคมระดับภูมิภาค ชู 4 ประเด็นรับมือเศรษฐกิจ สังคม สิ่งแวดล้อม และสังคมสูงวัย",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/special-stories/news_10444531",
+      "published_date": "2026-10-20T11:53:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justice minister details progress in MP Suchada's gambling website case",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340113/orange-line-trials-to-start-late-next-year",
-      "published_date": "2026-10-19T21:40:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3340320/justice-minister-details-progress-in-mp-suchadas-gambling-website-case",
+      "published_date": "2026-10-20T07:21:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Asset managers target global tech growth",
+      "title": "Chinese students ripped off by condo agents",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/investment/3340063/asset-managers-target-global-tech-growth",
-      "published_date": "2026-10-19T21:08:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3340319/chinese-students-ripped-off-by-condo-agents",
+      "published_date": "2026-10-20T06:37:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Mid-year '70 budget request: 10 billion baht flood relief",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/one-newspaper/1091468/",
-      "published_date": "2026-10-19T17:01:21+00:00",
-      "category": "Economy"
+      "title": "City Hall extends flood aid registration period as delays mount",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3340314/city-hall-extends-flood-aid-registration-period-as-delays-mount",
+      "published_date": "2026-10-20T06:03:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Miracles really do exist! Nong Boss was found missing for 29 hours, found along the creek 30 km from the point of loss.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10443404",
-      "published_date": "2026-10-19T17:01:05+00:00",
-      "category": "Economy"
+      "title": "Five tonnes of cannabis buds seized in Bangkok",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3340299/five-tonnes-of-cannabis-buds-seized-in-bangkok",
+      "published_date": "2026-10-20T04:06:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'CPRAM' moves portfolio J to sell for 365 days, competing for a market of 49 billion.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/business/news-2083106",
-      "published_date": "2026-10-19T16:16:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Royal Gazette reveals the Ministry of Interior's announcement specifying the provinces that will be surveyed. Making a map to issue land title deeds in the year 70.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5939807",
-      "published_date": "2026-10-19T15:46:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Former senator advises the government to use the praise of Thailand to organize the IMF-World Bank to expand its results and create further opportunities.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5939767",
-      "published_date": "2026-10-19T15:25:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Opening up about 'Jay Fa', the winner of the auction for a 450,000 baht stall for selling lotus at Bang Phli Yai Nai Temple.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10443312",
-      "published_date": "2026-10-19T15:16:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Toey Jarinphon is not soft-hearted and sues netizens for insulting her too harshly. Message me to apologize - delete the comment.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/entertainment/news_10443305",
-      "published_date": "2026-10-19T13:52:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Motorbike for hire in Pattaya Receive fewer customers After changing to a blue shirt Point out that tourists are confused. Not sure if it's Win or not?",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5939715",
-      "published_date": "2026-10-19T13:20:45+00:00",
-      "category": "Economy"
+      "title": "Bangkok council seeks cable solutions",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3340274/bangkok-council-seeks-cable-solutions",
+      "published_date": "2026-10-20T02:24:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Meteorological Department announcement today: 6 southern provinces brace for heavy rain.",
@@ -575,55 +610,6 @@
       "source": "Bangkok Post",
       "url": "https://www.bangkokpost.com/thailand/general/3340003/bma-apologises-for-flood-relief-delays",
       "published_date": "2026-10-19T22:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New travel subsidies for tour groups",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340108/new-travel-subsidies-for-tour-groups",
-      "published_date": "2026-10-19T22:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Father informs police that 9-year-old child was kidnapped before the case turned over evidence against the father. Revealing the most depressing motivation!",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9909647/",
-      "published_date": "2026-10-19T19:44:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A young man was arrested for using scissors to rob a 13-year-old boy in order to get money to take his girlfriend on a trip to Laos.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10443411",
-      "published_date": "2026-10-19T18:01:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Criticizing the government's failure to carry 'Ideer'",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/one-newspaper/1091470/",
-      "published_date": "2026-10-19T17:01:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Financial problems...recovery after the flood",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/columnist-people/1091454/",
-      "published_date": "2026-10-19T17:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Save page 4",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/columnist-people/1091453/",
-      "published_date": "2026-10-19T17:01:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Train driver finds body of monk Death floating in the middle of the river Face down with a tattoo of a tiger.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10443397",
-      "published_date": "2026-10-19T16:04:25+00:00",
       "category": "Local Events"
     }
   ]
