@@ -1,8 +1,29 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-21T01:29:41.646778+00:00",
-  "story_count": 88,
+  "last_updated": "2026-10-21T15:43:07.726684+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Secretary-General of the National Security Council reveals that the Prime Minister has emphasized the overall news aspect. Point out the causes of unrest around the world Does not affect Thai security",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5942449",
+      "published_date": "2026-10-21T11:55:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sihasak points out that protests in France are still a concern - spreading to Italy. Missed opportunity to discuss and attract investment",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/world/news-2084051",
+      "published_date": "2026-10-21T09:50:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Sihasak' Ding: Chinese embassy issues excessive warning Make tourists panic",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/world/news-2083994",
+      "published_date": "2026-10-21T09:05:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "เคลียร์ปม ‘พุทธิรังสีพิบูล-แตงโม ยูไนเต็ด’ ทำMOUใหม่ 6 เดือนดูผล",
       "source": "Khaosod",
@@ -15,6 +36,13 @@
       "source": "Khaosod English",
       "url": "https://www.khaosodenglish.com/news/2026/10/20/thailand-cambodia-agree-to-constructive-communications-in-maritime-talks/",
       "published_date": "2026-10-20T09:40:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Myanmar from a diplomat's perspective” Ambassador Phitsanu proposes a strategy for Burma-Thailand that must stop doing different things.",
+      "source": "Prachatai",
+      "url": "https://prachatai.com/journal/2026/10/119149",
+      "published_date": "2026-10-20T09:12:35+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Thawee visits Tak Bai and raises Tadika to create people who lead objects. Emphasize the party's position as a refuge for justice.",
+      "title": "Border Patrol Police Region 2 chases down a drug smuggling truck and is stunned to find 2 17-year-olds together with 14-year-olds hiding a large lot of money to send to the network in exchange for 40,000 baht.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10446129",
+      "published_date": "2026-10-21T12:49:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Department of Medical Services warns the lower South to deal with cross-border PM2.5, recommends avoiding outdoor activities.",
       "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5936210",
-      "published_date": "2026-10-16T13:05:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.matichon.co.th/local/quality-life/news_5942513",
+      "published_date": "2026-10-21T11:38:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Pilot Queen' to a new era of diplomacy Image of strong, modern Thai women leaders in the eyes of the world",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/hi-light/1090066/",
-      "published_date": "2026-10-16T12:43:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Chinese embassy politics Revealing the cooperation with Thailand for sustainable growth! Invest in robot technology - renewable energy Push domestic purchasing to 45 billion baht/year.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/quality-life/news_5936103",
-      "published_date": "2026-10-16T11:11:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli Embassy warns against fake news targeting Israelis in Thailand",
-      "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/news/2026/10/16/israeli-embassy-warns-against-fake-news-targeting-israelis-in-thailand/",
-      "published_date": "2026-10-16T09:59:18+00:00",
-      "category": "Diplomacy"
+      "title": "Heavy police protection, imprisoned the 'Mod Dam Bang Khae' gang, claiming self-defense. Sombat's wife reveals the story of the gunfight with Jim Ylang Ylang",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10446077",
+      "published_date": "2026-10-21T11:38:01+00:00",
+      "category": "Military"
     },
     {
       "title": "New Cold War tests Thai choices",
@@ -233,6 +254,34 @@
       "url": "https://www.matichon.co.th/sport/thai-sport/news_5936273",
       "published_date": "2026-10-16T23:00:35+00:00",
       "category": "Military"
+    },
+    {
+      "title": "PEA warns the public not to believe or share information that misrepresents the facts.",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/public-relations-news/1092736/",
+      "published_date": "2026-10-21T13:18:10+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Permanent Secretary of the Ministry of Education plans to deal with long-term living costs. Emphasize not to underestimate high energy prices.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5942538",
+      "published_date": "2026-10-21T11:52:47+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Italthai Engineering drives digital infrastructure-renewable energy Receive high BOI benefits of 1.47 trillion",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5942503",
+      "published_date": "2026-10-21T11:43:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "5 breakfasts as bad as \"drinking oil\" is like poisoning your health!",
+      "source": "Sanook News",
+      "url": "https://www.sanook.com/news/9909747/",
+      "published_date": "2026-10-21T05:50:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "High prices create multiple crises",
@@ -340,283 +389,283 @@
       "category": "Energy"
     },
     {
-      "title": "Thais still keen on overseas travel despite uncertainty",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340634/thais-still-keen-on-overseas-travel-despite-uncertainty",
-      "published_date": "2026-10-20T23:11:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Betagro gains major stake in Freshket",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340704/betagro-gains-major-stake-in-freshket",
-      "published_date": "2026-10-20T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "CP Group exposition showcases 90 projects",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340539/cp-group-exposition-showcases-90-projects",
-      "published_date": "2026-10-20T22:53:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ride-hailing fees earn public consultation",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340534/ridehailing-fees-earn-public-consultation",
-      "published_date": "2026-10-20T22:47:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Investors await data centre rules",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340699/investors-await-data-centre-rules",
-      "published_date": "2026-10-20T22:42:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Flood victims to get B10.5bn",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340524/flood-victims-to-get-b105bn",
-      "published_date": "2026-10-20T22:22:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Potash mines aim to cut import reliance",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340659/potash-mines-aim-to-cut-import-reliance",
-      "published_date": "2026-10-20T22:16:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Outbound tax faces axe if economic woes linger",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340764/outbound-tax-faces-axe-if-economic-woes-linger",
-      "published_date": "2026-10-20T22:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Campus shift plans set to go ahead",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340679/campus-shift-plans-set-to-go-ahead",
-      "published_date": "2026-10-20T22:09:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Europe unrest spurs warning",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340489/europe-unrest-spurs-warning",
-      "published_date": "2026-10-20T21:34:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Seoul eyes closer ties in AI, content",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340644/seoul-eyes-closer-ties-in-ai-content",
-      "published_date": "2026-10-20T21:13:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "EXIM BANK ผุดมาตรการช่วยลูกค้าน้ำท่วม สินเชื่อ 1 แสน ดอกเบี้ย 2% เสริมสภาพคล่อง",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2083668",
-      "published_date": "2026-10-20T13:04:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pattaya motorbike taxi riders say blue vests confuse tourists",
+      "title": "Sia Heng is eager to take legal action against being falsely accused. The truck had a sticker with the name \"Suchat Chomklin\" on it.",
       "source": "Khaosod",
-      "url": "https://www.khaosodenglish.com/news/transpo/2026/10/20/pattaya-motorbike-taxi-riders-say-blue-vests-confuse-tourists/",
-      "published_date": "2026-10-20T12:49:35+00:00",
+      "url": "https://www.khaosod.co.th/politics/news_10446262",
+      "published_date": "2026-10-21T14:29:47+00:00",
       "category": "Economy"
     },
     {
-      "title": "B44m seized in gambling case against MP Chonnaput",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340414/b44m-seized-in-gambling-case-against-mp-chonnaput",
-      "published_date": "2026-10-20T11:58:00+00:00",
+      "title": "Deputy Governor of Nong Khai inspects the place and prepares to welcome tourists to come see. 'Bang Fai Phaya Naga'",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10446110",
+      "published_date": "2026-10-21T14:08:55+00:00",
       "category": "Economy"
     },
     {
-      "title": "ปลุก “เงินนอน” เชียงใหม่ 3 แสนล้านปักหมุด Investment Hub ภาคเหนือ",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/local-economy/news-2083477",
-      "published_date": "2026-10-20T08:50:25+00:00",
+      "title": "Nestlé breaks ground on US$685 million coffee factory in Thailand",
+      "source": "Khaosod",
+      "url": "https://www.khaosodenglish.com/tech/2026/10/21/nestle-breaks-ground-on-us685-million-coffee-factory-in-thailand/",
+      "published_date": "2026-10-21T14:06:49+00:00",
       "category": "Economy"
     },
     {
-      "title": "‘Real’ Chinese tourists won’t face kidnap risk, says minister",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340355/real-chinese-tourists-wont-face-kidnap-risk-says-minister",
-      "published_date": "2026-10-20T08:40:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BiOST ชูไอเดียเศรษฐกิจแบบ Sustainomy ให้ผลตอบแทนคู่ขนาน โตแบบยั่งยืน",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/uncategorized/news-2083413",
-      "published_date": "2026-10-20T08:32:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Investigators question MP’s husband about gambling site shares",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340339/investigators-question-mps-husband-about-gambling-site-shares",
-      "published_date": "2026-10-20T07:34:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The ‘Four Ps’ of business are not wrong, just outnumbered",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340343/the-four-ps-of-business-are-not-wrong-just-outnumbered",
-      "published_date": "2026-10-20T07:02:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "เชียงใหม่เนื้อหอม! TCEB-CVI ผุดเวทีเจรจา หนุนระบบนิเวศนวัตกรรมล้านนา 2026",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9909682/",
-      "published_date": "2026-10-20T06:18:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Central Phuket doubles luxury zone",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340589/central-phuket-doubles-luxury-zone",
-      "published_date": "2026-10-21T00:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pilot prevails in pay dispute against Thai Vietjet Air",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340794/pilot-prevails-in-pay-dispute-against-thai-vietjet-air",
-      "published_date": "2026-10-20T22:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Facebook accounts for 74% of online shopping scams",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340784/facebook-accounts-for-74-of-online-shopping-scams",
-      "published_date": "2026-10-20T22:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Klatham future prompts rumours",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3340594/klatham-future-prompts-rumours",
-      "published_date": "2026-10-20T21:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Samsung Wallet targets commuters",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340559/samsung-wallet-targets-commuters",
-      "published_date": "2026-10-20T21:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fugitive tied to B220m theft collared",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340609/fugitive-tied-to-b220m-theft-collared",
-      "published_date": "2026-10-20T21:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EM DISTRICT เปลี่ยนสุขุมวิทให้กลายเป็น HAUNTED CARNIVAL ปล่อยความหลอนฮาโลวีน",
+      "title": "Heng Hum sticker with your own face Attached to the back of a truck, insists it is not involved in transporting industrial waste.",
       "source": "Matichon",
-      "url": "https://www.matichon.co.th/lifestyle/news_5941230",
-      "published_date": "2026-10-20T12:56:02+00:00",
-      "category": "Local Events"
+      "url": "https://www.matichon.co.th/politics/news_5942613",
+      "published_date": "2026-10-21T13:52:29+00:00",
+      "category": "Economy"
     },
     {
-      "title": "เวทีภาคประชาสังคมระดับภูมิภาค ชู 4 ประเด็นรับมือเศรษฐกิจ สังคม สิ่งแวดล้อม และสังคมสูงวัย",
+      "title": "Toi Tripop reveals a new plan for \"Born\", shifting from TV to the online world. Confirmed that the business will not be liquidated.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/business/news-2084116",
+      "published_date": "2026-10-21T13:28:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rudklao urges plugging 4 loopholes, supporting labor court-human trafficking law",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5942599",
+      "published_date": "2026-10-21T13:15:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nestlé lays the foundation stone for a new 23 billion baht coffee production facility in Thailand, the most advanced coffee production base.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/biz-movement/news-2084018",
+      "published_date": "2026-10-21T13:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "RWS invests 100 million to transform 'Ratchadamnern', attracting world superstars - targeting 1 million viewers in 2018.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/sport/news-2084169",
+      "published_date": "2026-10-21T13:03:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Ministry of Culture joins forces with partners to prevent illegal importation of waste.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5942598",
+      "published_date": "2026-10-21T13:01:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Customs seize 500,000 baht worth of matcha at Chiang Mai airport",
       "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/special-stories/news_10444531",
-      "published_date": "2026-10-20T11:53:19+00:00",
-      "category": "Local Events"
+      "url": "https://www.khaosodenglish.com/news/2026/10/21/customs-seize-500000-baht-worth-of-matcha-at-chiang-mai-airport/",
+      "published_date": "2026-10-21T12:44:59+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Justice minister details progress in MP Suchada's gambling website case",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340320/justice-minister-details-progress-in-mp-suchadas-gambling-website-case",
-      "published_date": "2026-10-20T07:21:00+00:00",
-      "category": "Local Events"
+      "title": "One trip, no more than 45 baht? Bangkok rail plan heads to Cabinet",
+      "source": "Khaosod",
+      "url": "https://www.khaosodenglish.com/news/transpo/2026/10/21/one-trip-no-more-than-45-baht-bangkok-rail-plan-heads-to-cabinet/",
+      "published_date": "2026-10-21T12:44:38+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Chinese students ripped off by condo agents",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340319/chinese-students-ripped-off-by-condo-agents",
-      "published_date": "2026-10-20T06:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "City Hall extends flood aid registration period as delays mount",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340314/city-hall-extends-flood-aid-registration-period-as-delays-mount",
-      "published_date": "2026-10-20T06:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five tonnes of cannabis buds seized in Bangkok",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340299/five-tonnes-of-cannabis-buds-seized-in-bangkok",
-      "published_date": "2026-10-20T04:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bangkok council seeks cable solutions",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3340274/bangkok-council-seeks-cable-solutions",
-      "published_date": "2026-10-20T02:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meteorological Department announcement today: 6 southern provinces brace for heavy rain.",
+      "title": "DE warns of SMS attaching a fake link claiming to be a \"famous department store\" giving away 3,000 baht. Be careful of being tricked and losing money - personal information.",
       "source": "Thai Post",
-      "url": "https://www.thaipost.net/general-news/1091602/",
-      "published_date": "2026-10-20T01:26:33+00:00",
-      "category": "Local Events"
+      "url": "https://www.thaipost.net/public-relations-news/1092700/",
+      "published_date": "2026-10-21T12:29:07+00:00",
+      "category": "Economy"
     },
     {
-      "title": "BWG joins forces with Sarika Subdistrict Administrative Organization to urgently mobilize to restore Nakhon Nayok's environment. Clearing out trash during the water crisis Prevent community health crises",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5939850",
-      "published_date": "2026-10-20T01:17:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Outrageous! Ex-boyfriend is cruelly jealous A 24-year-old man shoots the new girlfriend of a factory worker three times and dies tragically.",
+      "title": "'Chunlapan' pushes for new law to protect workers in home-based groups, 7 days unpaid wages, 15% additional pay",
       "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10443465",
-      "published_date": "2026-10-20T01:14:11+00:00",
-      "category": "Local Events"
+      "url": "https://www.khaosod.co.th/around-thailand/news_10446090",
+      "published_date": "2026-10-21T11:42:56+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Meteorological Department warns issue 7 today: 20 southern-eastern provinces will experience heavy rain, up to 70%, risk of flash floods.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5939826",
-      "published_date": "2026-10-20T00:46:05+00:00",
-      "category": "Local Events"
+      "title": "CREDIT Q3/69 Newhoe profit 1,239 million, grew 22%, loans increased 13.8%, controlling NPL to 4%.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2084155",
+      "published_date": "2026-10-21T11:35:16+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Meteorological Department warns number 7 of heavy rain today in 26 provinces - Bangkok and surrounding areas. In which areas is there heavy rain?",
+      "title": "Look at the profits of 6 large banks, growing through low interest rates, penetrating the Wealth business.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2084152",
+      "published_date": "2026-10-21T11:33:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministry of Labor overhauls filming set Both employees and freelancers Working hours must not exceed 14 hours.",
       "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10443430",
-      "published_date": "2026-10-20T00:02:08+00:00",
+      "url": "https://www.khaosod.co.th/special-stories/news_10445916",
+      "published_date": "2026-10-21T11:33:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poonphong plans to earn long-term living expenses Keep an eye on energy and transportation costs to put pressure on product prices.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/economic/news-2084143",
+      "published_date": "2026-10-21T11:26:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Seized matcha leaves tea lovers hoping for auction",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3341078/seized-matcha-leaves-tea-lovers-hoping-for-auction",
+      "published_date": "2026-10-21T11:26:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Editor's note - Flood relief budget",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/politics/hot-topics/news_10446006",
+      "published_date": "2026-10-21T11:21:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "KTB shows Q3/2026 profit growing to 12,582 million, stable for 9 months, setting aside a 14% reduction in provisions.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2084123",
+      "published_date": "2026-10-21T11:07:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sadly, a contractor was crushed by an iron horse. Horrible death on train tracks",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10446266",
+      "published_date": "2026-10-21T15:24:30+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Warawut goes to inspect a garbage factory. Order scans all over Thailand Points out that he violated the law. Teeth will not be raised. Government watch out for flooding until 31 October.",
+      "title": "Khlong Luang Prime Minister orders urgent Helping a couple whose house was damaged by flooding - a banyan tree fell on them.",
       "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5939685",
-      "published_date": "2026-10-19T23:45:53+00:00",
+      "url": "https://www.matichon.co.th/local/news_5942653",
+      "published_date": "2026-10-21T15:12:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Be careful! Flooding in the east-south, continuous rain. Very heavy in some places",
+      "title": "Destroying Chinese warehouses More than 5 tons of illegal pork intestines hidden, prepared to distribute to restaurants",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/local/news_5942148",
+      "published_date": "2026-10-21T15:07:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Husband and wife arrested for opening parcel delivery shop in front of them The main work is releasing methamphetamine and ice to customers on Koh Samui.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10446243",
+      "published_date": "2026-10-21T15:04:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Look forward to tomorrow when the Supreme Court reads the verdict in the civil case. Local fishermen sue famous company for oil spill in Rayong Sea in 2013",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/local/news_5942643",
+      "published_date": "2026-10-21T14:38:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Immigration Bureau 4 arrested 3 foreigners from Cambodia-Myanmar who were illegally working in Thailand.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/crime/news_10446257",
+      "published_date": "2026-10-21T14:27:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deputy Governor of Prachin explains that lab results on heavy metals in aquatic animals confirm they are safe and definitely edible after villagers complained. Black water - bad smell",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10446233",
+      "published_date": "2026-10-21T14:23:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tu Warawut, one of the co-founders of the Future Forward Party Died in an accident, Piyabutr posts condolences",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/region/news_5942585",
+      "published_date": "2026-10-21T13:02:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Repeatedly flooded! Rain hits Chonburi in just 1 hour, Sukhumvit-Bang Saray Road is submerged in groundwater.",
       "source": "Thai Post",
-      "url": "https://www.thaipost.net/general-news/1091560/",
-      "published_date": "2026-10-19T23:38:48+00:00",
+      "url": "https://www.thaipost.net/district-news/1092720/",
+      "published_date": "2026-10-21T12:58:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The minute of life must not wait! Police Inspector praises traffic at Nong Khang Phlu Police Station Hurry to help a man who is having a seizure.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/monitor-news/news_10446183",
+      "published_date": "2026-10-21T12:56:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raided Chokchai 4 Condominium, arrested 19 young men stocking 125 tanks of laughing gas, seized a lot of equipment.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/local/crime/news_5942550",
+      "published_date": "2026-10-21T12:52:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crack down on illegal online loan gangs outside the system Brutal interest rates in the lower northern region",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/crime/news_10446105",
+      "published_date": "2026-10-21T12:49:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aunt Da asks to postpone the date for giving evidence until the end of December regarding the temple land dispute - police say it is too long, giving only 15 days.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/local/news_5942567",
+      "published_date": "2026-10-21T12:46:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Bright-Techin' strong form, winning double podium, 'Idemitsu Honda Thailand Talent Cup 2026', field 4",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/sport-news/1092717/",
+      "published_date": "2026-10-21T12:46:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Motorcyclist killed after riding past lowered railway crossing barrier in Pattaya",
+      "source": "Khaosod",
+      "url": "https://www.khaosodenglish.com/news/2026/10/21/motorcyclist-killed-after-riding-past-lowered-railway-crossing-barrier-in-pattaya/",
+      "published_date": "2026-10-21T12:44:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arrest of 'Phor Thip' in Mae Sariang District Giving rights to foreign children NPA orders expansion of results Check past birth notifications",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/region/news_5942552",
+      "published_date": "2026-10-21T12:36:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DE warns of fake pages. Open the page \"Office of Justice and Follow Up to Recover Damage from Online Threats\" impersonating \"police.\" Be careful of online thieves tricking you into losing money and personal information.",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/public-relations-news/1092714/",
+      "published_date": "2026-10-21T12:31:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DNA tells the truth! Open the timeline of China's red flags. Claimed to be the father of a Thai child - secretly living in luxury",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/region/news_5942495",
+      "published_date": "2026-10-21T12:28:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Piyabutr' is sad! One of the founders of the 'Future Forward' party has died.",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/x-cite-news/1092684/",
+      "published_date": "2026-10-21T12:20:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The sedan fell asleep, lost control and fell into a 30 meter deep ravine on Phitsanulok-Lom Sak Road, 3 injured, narrowly escaping.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/region/news_5942547",
+      "published_date": "2026-10-21T12:11:21+00:00",
       "category": "Local Events"
     }
   ]
