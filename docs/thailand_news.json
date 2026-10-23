@@ -1,8 +1,36 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-23T01:21:46.078688+00:00",
+  "last_updated": "2026-10-23T15:35:04.366909+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Cambodia renews call for return of artifacts from Prasat Khana",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/23/cambodia-renews-call-for-return-of-artifacts-from-prasat-khana/",
+      "published_date": "2026-10-23T13:11:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thai journalist says Myanmar junta agents tried to intimidate him in Samut Prakan",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/23/thai-journalist-says-myanmar-junta-agents-tried-to-intimidate-him-in-samut-prakan/",
+      "published_date": "2026-10-23T11:17:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Koh Phangan revokes Israeli woman’s visa after complaints about behaviour",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/23/koh-phangan-revokes-israeli-womans-visa-after-complaints-about-behaviour/",
+      "published_date": "2026-10-23T07:44:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli woman’s visa revoked for ‘improper behaviour’",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3342258/israeli-womans-visa-revoked-for-improper-behaviour",
+      "published_date": "2026-10-23T04:47:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SX2026 invites you to “Adjust, Accept, Change” (Resilience in Action) to create a world in the decade of sustainable development together.",
       "source": "Thai Post",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Govt 'committed' to protecting territory",
+      "title": "Army denies targeting Preah Vihear",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3339888/govt-committed-to-protecting-territory",
-      "published_date": "2026-10-19T21:46:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Opening statement of the Arbitration Court Thailand-Cambodia achieves 'Measures to build trust'",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/foreign/news_5939752",
-      "published_date": "2026-10-19T14:23:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sihasak discusses with the leader of the Vatican city state. Confirming the care of Myanmar refugees according to the principles Reveals there are positive signs at UNCLOS stage",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/foreign/news_5939674",
-      "published_date": "2026-10-19T12:29:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Chinese Embassy issues a new warning to travelers to Thailand: Be careful of falling prey to scammers.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/world/news-2082824",
-      "published_date": "2026-10-19T08:06:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bangkokpost.com/thailand/general/3341939/army-denies-targeting-preah-vihear",
+      "published_date": "2026-10-22T23:40:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Think tank highlights insecurity among Thais",
@@ -274,13 +281,6 @@
       "source": "Sanook News",
       "url": "https://www.sanook.com/news/9909375/",
       "published_date": "2026-10-17T08:53:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dad can't stand it! The son was crazy about methamphetamine and held a knife to attack. He snatched a weapon from the garden and died at home.",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/district-news/1090205/",
-      "published_date": "2026-10-17T00:05:35+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,41 @@
       "category": "Energy"
     },
     {
+      "title": "AFE 2026 ชูการศึกษายืดหยุ่น ศธ.เปิด 4 แกนปฏิรูปการศึกษา ดัน Credit Bank-ปรับสูตรงบใหม่",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/education/news-2085350",
+      "published_date": "2026-10-23T11:20:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘d-MRV’ ฝีมือไทย ถูกเลือกเป็นแกนหลักโครงการ ‘Low Carbon City’ ของ World Bank",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/sd/news-2085184",
+      "published_date": "2026-10-23T08:01:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ยังแฮปปี้ ผนึก สสส. – กทม. ปลดล็อคศักยภาพเศรษฐกิจสูงวัย Silver Economy",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/business/news-2085128",
+      "published_date": "2026-10-23T06:53:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "“เดอะมอลล์” ปรับพื้นที่ค้าปลีกสู่ Active Lifestyle & Wellness รับเทรนด์สุขภาพ",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/biz-movement/news-2085124",
+      "published_date": "2026-10-23T06:52:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "50 teams deployed to probe toxic e-waste sites",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3341839/50-teams-deployed-to-probe-toxic-ewaste-sites",
+      "published_date": "2026-10-23T02:30:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Thai PBS with the big problem of public media, budget of 2,000 million, independence and survival.",
       "source": "Prachachat Turakij",
       "url": "https://www.prachachat.net/news/news-2084888",
@@ -529,45 +564,87 @@
       "category": "Economy"
     },
     {
-      "title": "No plans for departure tax as government prioritises tourism growth",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3341730/no-plans-for-departure-tax-as-government-prioritises-tourism-growth",
-      "published_date": "2026-10-22T14:38:00+00:00",
-      "category": "Economy"
+      "title": "GMMTV says ‘Scarlet Heart Thailand’ costumes draw from multiple cultures",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/featured/2026/10/23/gmmtv-says-scarlet-heart-thailand-costumes-draw-from-multiple-cultures/",
+      "published_date": "2026-10-23T15:29:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "TTB moves forward to buy back 14 billion shares this 16-27 Nov., setting the price range at 2.49-2.63 baht.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2084839",
-      "published_date": "2026-10-22T14:00:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "DSI dismantles illegal bitcoin mining network Search and seize real estate nominees worth more than 185 million",
+      "title": "‘ส้ม ณัชพร’ ยกทัพคนดัง ฉลอง 9 ปี ‘คุยแซ่บ SHOW’",
       "source": "Thai Post",
-      "url": "https://www.thaipost.net/criminality-news/1093475/",
-      "published_date": "2026-10-22T13:37:52+00:00",
-      "category": "Economy"
+      "url": "https://www.thaipost.net/entertainment-news/1094084/",
+      "published_date": "2026-10-23T14:16:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Sirichoke' reveals Maxbit explains to committee that found 3 bags of direct transfers to Shuffle of not less than 200,000 baht.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5944281",
-      "published_date": "2026-10-22T13:31:54+00:00",
-      "category": "Economy"
+      "title": "ตื่นตา! MGC-ASIA พาวิลเลียน งานพืชสวนโลก 2569",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/car-vehicle/news_10448242",
+      "published_date": "2026-10-23T10:35:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "TTB plans to buy back shares for the 5th time, worth 14 billion baht, open for purchase 16–27 Nov., price range 2.49–2.63 baht.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5944172",
-      "published_date": "2026-10-22T13:01:48+00:00",
-      "category": "Economy"
+      "title": "Lat Phrao road rage victim seeks help tracking attacker",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3342353/lat-phrao-road-rage-victim-seeks-help-tracking-attacker",
+      "published_date": "2026-10-23T10:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Floods persist in 16 provinces, two districts of Bangkok",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3342343/floods-persist-in-16-provinces-two-districts-of-bangkok",
+      "published_date": "2026-10-23T09:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Advertiser checks tightened to curb online scams",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3342345/advertiser-checks-tightened-to-curb-online-scams",
+      "published_date": "2026-10-23T09:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Girl, 15, arrested waiting to hand over 4,000 meth tablets",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3342300/girl-15-arrested-waiting-to-hand-over-4000-meth-tablets",
+      "published_date": "2026-10-23T07:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chinese woman wanted for B500m fraud arrested in Bangkok",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3342295/chinese-woman-wanted-for-b500m-fraud-arrested-in-bangkok",
+      "published_date": "2026-10-23T06:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NBTC members told to wait for court ruling on chairman",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3341879/nbtc-members-told-to-wait-for-court-ruling-on-chairman",
+      "published_date": "2026-10-23T04:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Typhoon forces Thai Airways to cancel Taiwan flights",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3342284/typhoon-forces-thai-airways-to-cancel-taiwan-flights",
+      "published_date": "2026-10-23T04:06:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Idea dance to open the Krathuen Nong Bua Daeng event Revealed that he attended a merit-making event with Suksomruay, refused to answer politics.",
       "source": "Matichon",
       "url": "https://www.matichon.co.th/politics/news_5944399",
       "published_date": "2026-10-23T01:16:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PP pushes reforms to Thai PBS funding",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3341914/pp-pushes-reforms-to-thai-pbs-funding",
+      "published_date": "2026-10-23T01:10:00+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +701,6 @@
       "source": "Thai Post",
       "url": "https://www.thaipost.net/x-cite-news/1093571/",
       "published_date": "2026-10-23T00:13:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today's weather conditions: Meteorological Department warns 37 provinces to deal with heavy rain. Bangkok will not survive being hit by 60%.",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9909874/",
-      "published_date": "2026-10-22T23:48:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meteorological Department warns of thunderstorms in 40 provinces, strong wind gusts, sea waves 2 meters high.",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/general-news/1093556/",
-      "published_date": "2026-10-22T23:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Discussion of 3 Whips collapses for the second time, no day for questioning - opposition walks out Throw in a new framework for Nov.-Dec.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5944057",
-      "published_date": "2026-10-22T23:25:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PP chief urges unity after chat leak",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3341964/pp-chief-urges-unity-after-chat-leak",
-      "published_date": "2026-10-22T22:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Udon Thani plant expo 'ready to open'",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3341984/udon-thani-plant-expo-ready-to-open",
-      "published_date": "2026-10-22T22:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suphajee to stay, says PM",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3341829/suphajee-to-stay-says-pm",
-      "published_date": "2026-10-22T22:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SX 2026 expo shifts towards resilience",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3341884/sx-2026-expo-shifts-towards-resilience",
-      "published_date": "2026-10-22T20:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catching children who study well Carrying more than 4,000 methamphetamine pills, hired to deliver packages without knowing what it is",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10447663",
-      "published_date": "2026-10-22T17:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meteorological Department announces issue 12: Heavy rain in Thailand 22-25 Oct., especially in the southern and eastern regions.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10447651",
-      "published_date": "2026-10-22T16:21:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver takes a pregnant woman to the hospital, but in time she gives birth in the car in the middle of the road.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10447613",
-      "published_date": "2026-10-22T16:08:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mathayom 3 female students earn money hoping to reduce the burden on their families. Hired to deliver mysterious parcels Finally, 4,000 methamphetamine pills were found.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5944348",
-      "published_date": "2026-10-22T15:18:55+00:00",
       "category": "Local Events"
     }
   ]
