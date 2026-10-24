@@ -1,8 +1,29 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-24T01:26:18.184346+00:00",
+  "last_updated": "2026-10-24T14:09:51.628256+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Myanmar’s detained leader Aung San Suu Kyi traded health concerns with her son in their first call in 5 years",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/international/2026/10/24/myanmars-detained-leader-aung-san-suu-kyi-traded-health-concerns-with-her-son-in-their-first-call-in-5-years/",
+      "published_date": "2026-10-24T12:23:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Ministry of Foreign Affairs confirms that the bidding for the production and service of producing e-passports is transparent. After someone filed an appeal",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/foreign/news_5946690",
+      "published_date": "2026-10-24T10:33:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sihasak closed his job visiting 3 European countries, gaining support and expecting the Thai-EU FTA to conclude this year.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/world/news-2085481",
+      "published_date": "2026-10-24T04:11:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "81 years of UN 'Anutin' promoting peaceful methods to solve disputes Adhere to international law",
       "source": "Thai Post",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sihasak points out that protests in France are still a concern - spreading to Italy. Missed opportunity to discuss and attract investment",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/world/news-2084051",
-      "published_date": "2026-10-21T09:50:19+00:00",
-      "category": "Diplomacy"
+      "title": "Cambodian Royal Thai Army Stop distorting and accusing Thailand of violating sovereignty. cover up your own faults",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/general-news/1094673/",
+      "published_date": "2026-10-24T13:18:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Sihasak' Ding: Chinese embassy issues excessive warning Make tourists panic",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/world/news-2083994",
-      "published_date": "2026-10-21T09:05:27+00:00",
-      "category": "Diplomacy"
+      "title": "Went out on a trip, came back to the room shocked, shrapnel filled the house. A mortar round fell in the middle of the bed.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/region/news_5946604",
+      "published_date": "2026-10-24T09:25:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "เคลียร์ปม ‘พุทธิรังสีพิบูล-แตงโม ยูไนเต็ด’ ทำMOUใหม่ 6 เดือนดูผล",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/special-stories/news_10444666",
-      "published_date": "2026-10-20T12:32:39+00:00",
-      "category": "Diplomacy"
+      "title": "Bangkok seeks to keep control of southern peace process",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3342509/bangkok-seeks-to-keep-control-of-southern-peace-process",
+      "published_date": "2026-10-24T03:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Extremely depressing, a drone found the body of 83 eyes after a boat capsized in the middle of the water. After the flood, he rowed a boat to pick up rice and disappeared for 12 days.",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Pha Mo E Daeng opened for testing on the first day. Tourists flock to lively After the border war",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10441117",
-      "published_date": "2026-10-17T13:22:19+00:00",
-      "category": "Military"
+      "title": "'Teng' wins 'Vocational Certificate in Thai Government under the Shadow of Oil', a dark horse in the top 10. Don't forget to cheer for the new book 'Pitha'.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/prachachuen/book/news_5946768",
+      "published_date": "2026-10-24T12:20:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Army commander flies into southern border area Emphasizing integration of all sectors Driving security work along with development",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5937238",
-      "published_date": "2026-10-17T12:12:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "His Majesty the King bestows burial ground for Sgt. Sukrun Lateh, who was shot by an assailant while performing his duties. It's a special case.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5937192",
-      "published_date": "2026-10-17T11:53:42+00:00",
-      "category": "Military"
+      "title": "Anutin is confident that Thailand will survive the Middle East crisis. There is no shortage of oil - there is only a price based on the world market.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/politics/news-2085478",
+      "published_date": "2026-10-24T03:55:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cabinet plans to discuss 'oil excise tax', looking for ways to reduce energy prices",
@@ -410,297 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "5 breakfasts as bad as \"drinking oil\" is like poisoning your health!",
+      "title": "Charoen Pokphand Group Clarifying the spread of distorted information New varieties of basil. All rights reserved. Proceed according to the law.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5946808",
+      "published_date": "2026-10-24T13:19:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Who sets the coordinates? Who decides Thailand's fate? Asst. Prof. Dr. Noppadol warns against fake GPS, pointing out that incorrect information may spread into a crisis.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/article/news_5946799",
+      "published_date": "2026-10-24T12:53:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tourism supports WTCE 2026, connecting Thai-Chinese-international business. Push tourism, technology, sports, and entertainment into new opportunities",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/business/news-2085588",
+      "published_date": "2026-10-24T12:45:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Book fans line up overflowing waiting for Pitha to sign autographs, suggesting 3 solutions to economic problems.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/biz-movement/news-2085569",
+      "published_date": "2026-10-24T11:58:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "10 affordable foods that are \"high in protein\", no need to eat expensive meat. No need to rely on whey protein!",
       "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9909747/",
-      "published_date": "2026-10-21T05:50:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "High prices create multiple crises",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3340689/high-prices-create-multiple-crises",
-      "published_date": "2026-10-20T22:44:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "'Suriya' orders examination to register rights of 4 varieties of basil, are they legal or not? Results will be known within 1 week.",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/politics-news/1094201/",
-      "published_date": "2026-10-24T01:23:42+00:00",
+      "url": "https://www.sanook.com/news/9909975/",
+      "published_date": "2026-10-24T11:42:21+00:00",
       "category": "Economy"
     },
     {
-      "title": "BoT sets up framework to control BNPL loans 'TTB-Kasikorn', worried about debtors growing quickly",
+      "title": "“CX to AX” BBIK uses AI to change the financial app game. Emphasizing that customer experience must be on the CEO's agenda",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2085380",
-      "published_date": "2026-10-24T01:06:00+00:00",
+      "url": "https://www.prachachat.net/tech/news-2085543",
+      "published_date": "2026-10-24T11:41:00+00:00",
       "category": "Economy"
     },
     {
-      "title": "Cabinet travels to Udon Thani to invest 40 billion to connect trade with China.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/politics/news-2085402",
-      "published_date": "2026-10-24T00:05:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bitcoin price today (Oct. 24) dropped 0.44% to $80,856.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/uncategorized/news-2085444",
-      "published_date": "2026-10-23T23:46:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Thai coral bacteria set for space mission",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3342659/thai-coral-bacteria-set-for-space-mission",
-      "published_date": "2026-10-23T23:21:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Ministry of Finance aims to reduce taxes on E20-B20, fixing the difference at 6 baht to support farmers and enhance liquidity in the oil fund.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5945573",
-      "published_date": "2026-10-23T23:00:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ekniti backs sin tax changes",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3342474/ekniti-backs-sin-tax-changes",
-      "published_date": "2026-10-23T22:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "AI adoption surges, but enterprise use lags",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3342674/ai-adoption-surges-but-enterprise-use-lags",
-      "published_date": "2026-10-23T22:14:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Unpacking the proposed departure tax",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3342749/unpacking-the-proposed-departure-tax",
-      "published_date": "2026-10-23T22:06:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gold traders mull repercussions of US political turmoil",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3342684/gold-traders-mull-repercussions-of-us-political-turmoil",
-      "published_date": "2026-10-23T21:50:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Thailand seeks to boost SME exports",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3342539/thailand-seeks-to-boost-sme-exports",
-      "published_date": "2026-10-23T18:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Department of Industrial Works has mobilized more than 50 teams to carry out strict inspections of factories to eliminate industrial waste throughout the country in 2 months.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5944993",
-      "published_date": "2026-10-23T14:33:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Special Report – Buaban Innovation Fair 2026 CP joins forces with world leaders to drive the future of business",
+      "title": "Editorial – Industrial toxic waste",
       "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/economics/news_10448339",
-      "published_date": "2026-10-23T11:47:10+00:00",
+      "url": "https://www.khaosod.co.th/politics/hot-topics/news_10448926",
+      "published_date": "2026-10-24T11:13:00+00:00",
       "category": "Economy"
     },
     {
-      "title": "Mill offers 13 points, Agriculture Department responds, pushing rice straw to produce electricity - accelerating standards for soft ground rice.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2085358",
-      "published_date": "2026-10-23T11:23:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "AFE 2026 ชูการศึกษายืดหยุ่น ศธ.เปิด 4 แกนปฏิรูปการศึกษา ดัน Credit Bank-ปรับสูตรงบใหม่",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/education/news-2085350",
-      "published_date": "2026-10-23T11:20:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Agriculture launches \"Thai Rice Sandbox\" 100 rai, pushing yield to 1.5 tons/rai, reducing costs to 6,000 baht/ton.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2085303",
-      "published_date": "2026-10-23T09:44:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Today's gold price (23 Oct. '26) fell 950 baht, jewelry sold for 65,200 baht.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2084929",
-      "published_date": "2026-10-23T09:32:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Meta responds to DE, adding checks and scanning pages before buying ads.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/tech/news-2085206",
-      "published_date": "2026-10-23T08:29:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Open consumer insights When cosmeceuticals and vitamins push the beauty market to grow to 160 billion.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/business/news-2085196",
-      "published_date": "2026-10-23T08:24:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘d-MRV’ ฝีมือไทย ถูกเลือกเป็นแกนหลักโครงการ ‘Low Carbon City’ ของ World Bank",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/sd/news-2085184",
-      "published_date": "2026-10-23T08:01:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'Suchart' doesn't believe the report of his subordinates! Send a special team to investigate the land of the husband of 'Bum Panadda'",
+      "title": "Porsche AAS invites you to experience sports cars With a down payment offer of 0%* at the AAS Roadshow at Central Ladprao 22–28 Oct.",
       "source": "Thai Post",
-      "url": "https://www.thaipost.net/x-cite-news/1094191/",
-      "published_date": "2026-10-24T01:12:29+00:00",
-      "category": "Local Events"
+      "url": "https://www.thaipost.net/automotive-news/1094564/",
+      "published_date": "2026-10-24T10:50:38+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The body of a 5-month-old baby was found floating in the Chao Phraya River. not far from home Mother just reported her child missing. The police detained him for further questioning.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5945664",
-      "published_date": "2026-10-24T01:03:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Minister of Agriculture has ordered an expedited investigation into whether the registration of rights to protect '4 varieties of basil' is legal or not.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2085454",
-      "published_date": "2026-10-24T00:57:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former judge dissects the issue of 'Kaprao Kaewjuree', revealing issues that society needs to know!",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/hi-light/1094186/",
-      "published_date": "2026-10-24T00:45:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starting today, 5 full days, the Meteorological Department warns number 2 of heavy rain, unstable weather, 24-28 Oct.",
+      "title": "Analysts point out the direction of gold prices Keep an eye on the important support lines. May cause prices to plummet continuously",
       "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10448500",
-      "published_date": "2026-10-24T00:44:46+00:00",
-      "category": "Local Events"
+      "url": "https://www.khaosod.co.th/economics/news_10448978",
+      "published_date": "2026-10-24T10:48:02+00:00",
+      "category": "Economy"
     },
     {
-      "title": "ASAP enters the market of animal lovers Sending EV rental cars to target customers in Bangkok.",
+      "title": "Akkaranan helps a 15-year-old girl lose her father in a land dispute, insisting that her future education will not be affected.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/politics/news_10448972",
+      "published_date": "2026-10-24T10:40:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Mangosteen out of season' in the South, fragrant flesh Merchants flock to reserve the park, hoping the price will reach a hundred baht.",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/automotive/news-2084878",
-      "published_date": "2026-10-24T00:41:00+00:00",
+      "url": "https://www.prachachat.net/economic/news-2085039",
+      "published_date": "2026-10-24T10:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Family announces search for famous former Dutch host who disappeared in Thailand, offering reward of nearly 100,000 baht for information.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/special-stories/news_10448964",
+      "published_date": "2026-10-24T10:20:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How to update the salary structure?",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/columns/opinion-column-11/news-2085216",
+      "published_date": "2026-10-24T10:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Veerathai-Somkiat of TDRI reveals risk factors in Thailand. In an uncertain world",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/economic/news-2085259",
+      "published_date": "2026-10-24T09:52:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "TDRI worried about aging society Withdrawal of pension until end of year 1995 Increase the contribution to 12%.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/economics/news_10448941",
+      "published_date": "2026-10-24T09:45:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thai gold falls heavily Met with strong selling pressure on the Global Fund Analysts point out that the risk direction will continue to fall.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5946638",
+      "published_date": "2026-10-24T09:42:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lamphun flood \"Disaster insurance\" pays immediately 10,000 baht for 235 households.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2085509",
+      "published_date": "2026-10-24T08:30:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CPF pushes AI to add value and transform the food industry",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/economic/news-2084968",
+      "published_date": "2026-10-24T07:23:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Breaking down the bank budget, Q3, 9 months, profit 198 billion.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2085246",
+      "published_date": "2026-10-24T07:19:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Introducing the tycoon's grandson, 3rd generation heir, Thames-Rojana Sirivadhanabhakdi, a famous youth at the IMF meeting.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/biz-movement/news-2085490",
+      "published_date": "2026-10-24T05:52:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "King-Queen His Majesty performed royal merit-making on the 1 year anniversary of the death of His Majesty King Maha Vajiralongkorn Bodindradebayavarangkun.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/royal/news_5946839",
+      "published_date": "2026-10-24T14:01:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "What kind of work may help you live longer? Research finds that \"stressful occupations\" have a 10% lower risk of death.",
+      "title": "The King, Queen and Royal Family His Majesty completed one year of royal merit-making on the day of the death of His Majesty the King.",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/hi-light/1094708/",
+      "published_date": "2026-10-24T13:39:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grandmother urges end to bullying after Buriram teen’s death",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/24/grandmother-urges-end-to-bullying-after-buriram-teens-death/",
+      "published_date": "2026-10-24T13:37:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Relatives announce search Famous Dutch MC Mysterious disappearance in Thailand. Commander of the Immigration Bureau won't release him and orders an immediate investigation into the information.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/local/news_5946826",
+      "published_date": "2026-10-24T13:26:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch TV host reported missing in Thailand left country in 2025, police say",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/featured/2026/10/24/dutch-tv-host-reported-missing-in-thailand-left-country-in-2025-police-say/",
+      "published_date": "2026-10-24T13:12:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dr. Plodprasop recommends urgent corrections before 'basil' becomes 'kapang'.",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/x-cite-news/1094648/",
+      "published_date": "2026-10-24T12:41:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seeing flames burning the city..is that a beautiful thing? | Thai Newsroom Post Weekend",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/news-update/1094638/",
+      "published_date": "2026-10-24T12:18:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police raid and arrest horse accounting girl from secret group watching porn clips Found over 700 VIP members, still hunting for the admin.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/crime/news_10449059",
+      "published_date": "2026-10-24T12:16:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Tawee' points out the way out of the Southern Fire Suggestions to reduce pride - talk about peace in Thailand No need to rely on Malaysia, raise 'Malay identity' as the key to connecting the world",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/politics/news_10449042",
+      "published_date": "2026-10-24T11:52:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Deputy Government Spokesman' responds to 'Phakamon' insisting he could not agree on a time for questioning. Not because of fear of inspection",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/politics-news/1094538/",
+      "published_date": "2026-10-24T11:47:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pitha emphasizes that the world is changing, Thailand must adjust, advises the government of 3 ways to survive before the superpower squeezes - causing a triple crisis!",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5946747",
+      "published_date": "2026-10-24T11:21:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Fresh apple vs. steamed apple.\" Eat one apple a day, which is better for the body?",
       "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9909882/",
-      "published_date": "2026-10-24T00:20:18+00:00",
+      "url": "https://www.sanook.com/news/9909971/",
+      "published_date": "2026-10-24T11:19:32+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Meteorological Department Announcement No. 2 starting today, heavy rain continues in many areas. Low-lying areas may be flooded.",
+      "title": "Fighting without angles - revamping the 'Big Ran era' of Chor Ai Mong - transfer of police.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/newspaper-column/blunt-opinion/news_10448954",
+      "published_date": "2026-10-24T11:15:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deputy Speaker retorts to Lisa that the government has never been afraid to investigate and cannot accept accusations of locking the day because of a fortune teller.",
       "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5945651",
-      "published_date": "2026-10-24T00:16:38+00:00",
+      "url": "https://www.matichon.co.th/politics/news_5946710",
+      "published_date": "2026-10-24T11:03:17+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Big Camera is upbeat on compact digital demand",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3342699/big-camera-is-upbeat-on-compact-digital-demand",
-      "published_date": "2026-10-24T00:10:00+00:00",
+      "title": "Sathit Bee Anutin responded to the inquiry on which day, confirming that 4 days is the end of the road, asking if there would be no free time in another 7 weeks?",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5946684",
+      "published_date": "2026-10-24T10:37:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Weather forecast (24 Oct.) Southern region still has 60 - 70% rain, Bangkok 30% rain.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2085447",
-      "published_date": "2026-10-24T00:03:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meteorological Department warns 11 southern provinces of heavy rain Risk of flash floods - flash floods",
+      "title": "Meteorological Department Announcement No. 3 opens areas at risk of heavy rain-flooding in the southern region 25-28 Oct.",
       "source": "Thai Post",
-      "url": "https://www.thaipost.net/general-news/1094176/",
-      "published_date": "2026-10-23T23:54:57+00:00",
+      "url": "https://www.thaipost.net/general-news/1094518/",
+      "published_date": "2026-10-24T10:33:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Today's weather conditions: Meteorological Department warns 27 provinces to prepare for thunderstorms and heavy rain.",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9909931/",
-      "published_date": "2026-10-23T23:51:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Now open 'Book Fair' 'Matichon' in full - Gen Z is full.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/biz-movement/news-2085388",
-      "published_date": "2026-10-23T23:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sophon has not yet filed a resolution motion. After discussing the Whip, 3 sides collapsed again. Discussion postponed to November-December. Waiting for the government to negotiate with the opposition again.",
+      "title": "Lisa asked Spirit for just 5 days, why couldn't he listen? Mocking the debate date on October 27 because of believing in fortune tellers.",
       "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5945592",
-      "published_date": "2026-10-23T23:30:01+00:00",
+      "url": "https://www.matichon.co.th/politics/news_5946681",
+      "published_date": "2026-10-24T10:31:36+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Fluke-Lee adds a little sweetness but is very satisfying! Explore a healthy Thai dessert cafe",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/newspaper-column/tv-guide/news_10447220",
-      "published_date": "2026-10-23T23:15:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uni defends holy basil patents",
+      "title": "Motorcyclist held for road rage attack on Bangkok woman",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3342554/uni-defends-holy-basil-patents",
-      "published_date": "2026-10-23T23:05:00+00:00",
+      "url": "https://www.bangkokpost.com/thailand/general/3342830/motorcyclist-held-for-road-rage-attack-on-bangkok-woman",
+      "published_date": "2026-10-24T10:27:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Speaker of House calls for a deal",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3342549/speaker-of-house-calls-for-a-deal",
-      "published_date": "2026-10-23T22:56:00+00:00",
+      "title": "'Teachers Council' launches Chatbot on 26 Oct., including teacher information - open 24 hours.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/local/education/news_5946686",
+      "published_date": "2026-10-24T10:23:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Emerging technologies offer Thailand opportunities",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3342679/emerging-technologies-offer-thailand-opportunities",
-      "published_date": "2026-10-23T22:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thrilling event to receive lotus Boat crashes into canal, 1 boat sinks, 8 injured, 6-year-old boy adrift",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10448489",
-      "published_date": "2026-10-23T19:24:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sad! 5-month-old baby floating on the Chao Phraya River After his mother reported him missing in the middle of the night",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10448482",
-      "published_date": "2026-10-23T18:21:07+00:00",
+      "title": "Thai anti-graft agency bars staff from bragging about work online",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/24/thai-anti-graft-agency-bars-staff-from-bragging-about-work-online/",
+      "published_date": "2026-10-24T10:17:15+00:00",
       "category": "Local Events"
     }
   ]
