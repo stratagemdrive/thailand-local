@@ -1,8 +1,29 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-29T02:15:26.977684+00:00",
+  "last_updated": "2026-10-29T17:13:00.450460+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Amnesty chief: Cambodian state ‘probably complicit’ in scam compounds",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/featured/2026/10/29/amnesty-chief-cambodian-state-probably-complicit-in-scam-compounds/",
+      "published_date": "2026-10-29T12:07:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two Uyghurs could face immediate repatriation from Thailand while 40 sent back are no longer reachable",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/featured/2026/10/29/two-uyghurs-could-face-immediate-repatriation-from-thailand-while-40-sent-back-are-no-longer-reachable/",
+      "published_date": "2026-10-29T11:22:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Myanmar workers wanted for employer’s killing surrender",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3345764/myanmar-workers-wanted-for-employers-killing-surrender",
+      "published_date": "2026-10-29T08:10:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Region 2 discusses RBC Thai-Cambodia at Chong Sa-ngam, emphasizing control of forces in the area. Do not move the line – increase power.",
       "source": "Khaosod",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sihasak closed his job visiting 3 European countries, gaining support and expecting the Thai-EU FTA to conclude this year.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/world/news-2085481",
-      "published_date": "2026-10-24T04:11:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "81 years of UN 'Anutin' promoting peaceful methods to solve disputes Adhere to international law",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/hi-light/1094196/",
-      "published_date": "2026-10-24T01:18:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US brings food, music and culture to Bangkok for 250th birthday",
+      "title": "Mae Sot troops on alert as Myanmar fighting spills over border",
       "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/life/arts/2026/10/23/us-brings-food-music-and-culture-to-bangkok-for-250th-birthday/",
-      "published_date": "2026-10-23T16:46:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.khaosodenglish.com/politics/2026/10/29/mae-sot-troops-on-alert-as-myanmar-fighting-spills-over-border/",
+      "published_date": "2026-10-29T10:20:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "No need for stockpiling, Ministry of Defence clarifies",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3345769/no-need-for-stockpiling-ministry-of-defence-clarifies",
+      "published_date": "2026-10-29T07:35:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Teacher's Challenge! Rodtang shows his fitness to 100% and measures up with Nong O in The Inner Circle 38.",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Pha Muang Army Fierce clash at Mae Fah Luang border, 2 dead bodies smuggled in methamphetamine, 300,000 tablets seized",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5948811",
-      "published_date": "2026-10-26T11:43:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thai army ready to respond if Myanmar fire damages Thai lives or property",
-      "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/news/2026/10/26/thai-army-ready-to-respond-if-myanmar-fire-damages-thai-lives-or-property/",
-      "published_date": "2026-10-26T09:25:36+00:00",
-      "category": "Military"
+      "title": "PM denies solar project favours big firms",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3345340/pm-denies-solar-project-favours-big-firms",
+      "published_date": "2026-10-29T02:54:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "The government warns that solar households cannot reuse their tax rights.",
@@ -417,11 +424,81 @@
       "category": "Energy"
     },
     {
-      "title": "Ekiti points out that people are flocking to register to install public solar. The first day there were more than 7,000 people.",
+      "title": "กดปุ่ม gamescom asia 2026 ตั้งเป้าดันผู้สร้างเกมไทย ระดมทุนทะลุ 1.2พันล้านบาท",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2086721",
-      "published_date": "2026-10-27T08:40:28+00:00",
-      "category": "Energy"
+      "url": "https://www.prachachat.net/tech/news-2088063",
+      "published_date": "2026-10-29T12:51:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ECB chief Christine Lagarde to step down in February",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/investment/3345905/ecb-chief-christine-lagarde-to-step-down-in-february",
+      "published_date": "2026-10-29T11:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CP tycoon gives Nene Royal gold Buddha as she receives US$1.2m condo",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/life/2026/10/29/cp-tycoon-gives-nene-royal-gold-buddha-as-she-receives-us1-2m-condo/",
+      "published_date": "2026-10-29T10:59:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "บสย.-คลิกซ์ เชื่อมต่อ Virtual Bank ผลักดันสินเชื่อดิจิทัล ช่วย SMEs ฟรีแลนซ์ เข้าถึงเงินทุน",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2087933",
+      "published_date": "2026-10-29T10:26:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "B5.3bn sale of Royal Orchid Sheraton approved",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345750/b53bn-sale-of-royal-orchid-sheraton-approved",
+      "published_date": "2026-10-29T05:41:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Platforms agree to 6-month fee rollback for small firms",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345450/platforms-agree-to-6month-fee-rollback-for-small-firms",
+      "published_date": "2026-10-29T04:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Sin tax’ revenue shake-up draws fire",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3345645/sin-tax-revenue-shakeup-draws-fire",
+      "published_date": "2026-10-29T04:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Flood fears threaten Hat Yai tourism resurgence",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345530/flood-fears-threaten-hat-yai-tourism-resurgence",
+      "published_date": "2026-10-29T03:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SCBAM eyes 25% increase in assets within 3 years",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345505/scbam-eyes-25-increase-in-assets-within-3-years",
+      "published_date": "2026-10-29T03:55:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Steelmaker calls for infrastructure push",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345455/steelmaker-calls-for-infrastructure-push",
+      "published_date": "2026-10-29T03:51:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bank of Thailand upgrades 2026 GDP forecast",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345445/bank-of-thailand-upgrades-2026-gdp-forecast",
+      "published_date": "2026-10-29T03:38:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Urgent! NSC tells false news to stock up on 'food and medicine' for 72 hours in response to events in the Middle East.",
@@ -487,81 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Opening business opportunities \"Napa Village Suvarnabhumi\" supports more than 60,000 service users.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/monitor-news/news_10453563",
-      "published_date": "2026-10-28T23:00:53+00:00",
-      "category": "Economy"
+      "title": "​The Coffee, Time, a Judge, and the Pledge of Thailand’s Most Prominent Political Prisoner Arnon Nampa",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/opinion/2026/10/29/the-coffee-time-a-judge-and-the-pledge-of-thailands-most-prominent-political-prisoner-arnon-nampa/",
+      "published_date": "2026-10-29T12:16:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bitcoin price today (Oct. 29) rose 0.45% to $81,164.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2087552",
-      "published_date": "2026-10-28T22:24:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fed holds interest rates low, says Kevin Warch: 'Inflation is too high'",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/world/news-2087531",
-      "published_date": "2026-10-28T19:00:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Kaspersky warns Thai tourists Beware of cyber threats in Japan",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/lifestyle/tech/news_5951836",
-      "published_date": "2026-10-28T16:30:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bum Panadda explains the foundation's budget. I just found out about the change. He said he might sell the house to end the problem. I'm so tired that I don't want to anymore.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/entertainment/thai-entertainment/news_5952275",
-      "published_date": "2026-10-28T15:56:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A crocodile more than 2 meters long has been caught. Officers found it hidden in a rice field with only its head showing. Officers used a net to swing it before arresting it.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10453362",
-      "published_date": "2026-10-28T13:36:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "B5.3bn sale of Royal Orchid Sheraton approved",
+      "title": "PM files ‘tea money’ defamation complaints",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3345248/b53bn-sale-of-royal-orchid-sheraton-approved",
-      "published_date": "2026-10-28T13:36:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3345885/pm-files-tea-money-defamation-complaints",
+      "published_date": "2026-10-29T11:09:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Raise 100,000 baht to put a bounty on the head of the perpetrator. Repeatedly poisoning the dog. Many sectors entered into discussion",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10453383",
-      "published_date": "2026-10-28T13:06:17+00:00",
-      "category": "Economy"
+      "title": "Thai-Singaporean sex procurement ring busted",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3345875/thaisingaporean-sex-procurement-ring-busted",
+      "published_date": "2026-10-29T10:30:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Check the list of private contractors 'People's Solar' MEA-PEA ready to set conditions for a 50,000 baht loan",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2087486",
-      "published_date": "2026-10-28T12:47:57+00:00",
-      "category": "Economy"
+      "title": "Sika Thailand advances professional tiling skills through Thailand Pro Tiler 2026",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345199/sika-thailand-advances-professional-tiling-skills-through-thailand-pro-tiler-2026",
+      "published_date": "2026-10-29T08:57:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Easy Money Group invests 40 million baht to plant the solar cell flag in every branch. Driving low carbon organizations",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/monitor-news/news_10453360",
-      "published_date": "2026-10-28T12:35:00+00:00",
-      "category": "Economy"
+      "title": "Suvarnabhumi says subsidence cause of runway mishap",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3345765/suvarnabhumi-runway-subsidence-probed-after-plane-gets-stuck",
+      "published_date": "2026-10-29T07:38:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "VGI explains that the SEC is suing 3 major shareholders in personal cases, confirming that it will not affect business - stocks trade normally.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2087511",
-      "published_date": "2026-10-28T12:30:12+00:00",
-      "category": "Economy"
+      "title": "Bangkok Post secures website following brief disruption",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3345759/bangkok-post-secures-website-following-brief-disruption",
+      "published_date": "2026-10-29T07:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nurses oppose community volunteer plan",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3345500/nurses-oppose-community-volunteer-plan",
+      "published_date": "2026-10-29T03:31:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "A 56-year-old woman complains that Luangta Horn is sexually harassing her in chat. She reveals more.",
@@ -652,55 +701,6 @@
       "source": "Matichon",
       "url": "https://www.matichon.co.th/local/news_5952323",
       "published_date": "2026-10-29T00:35:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern executive reveals Vincent Kompany's condition is improving and has been released from hospital.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/sports/news_10453579",
-      "published_date": "2026-10-29T00:03:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liverpool vs. Bournemouth Man City host Bradford in the quarter-finals of the Carabao Cup.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/sport/footballinter/news_5952364",
-      "published_date": "2026-10-29T00:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The family searched all day before finding the body of a female irrigation worker who had died.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10453571",
-      "published_date": "2026-10-28T23:43:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 party whips knock for scalping for 72 hours, 7-11 Dec., cleaning The committee asks for a 2-hour discussion. Ice cream emphasizes that you must not trust.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5952013",
-      "published_date": "2026-10-28T23:40:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today's weather conditions: Meteorological Department releases names of 32 provinces, warning of continuous heavy rain.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10453566",
-      "published_date": "2026-10-28T23:22:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The pickup truck came quickly, crashed without brakes, and crashed into the back of a pickup truck parked on fire. The driver is seriously injured and is believed to have fallen asleep.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10453522",
-      "published_date": "2026-10-28T16:32:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Ministry of Public Health explains the reasons for calling candidates to take the competitive exam. An additional 396 people were reported, confirming that more than 3.9 thousand people who have received summonses have full rights.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5952309",
-      "published_date": "2026-10-28T16:03:22+00:00",
       "category": "Local Events"
     }
   ]
