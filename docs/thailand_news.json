@@ -1,8 +1,22 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-30T02:33:06.119021+00:00",
+  "last_updated": "2026-10-30T16:55:45.181596+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Thailand ready to evacuate citizens if Mideast tensions escalate",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3345366/thailand-ready-to-evacuate-citizens-if-mideast-tensions-escalate",
+      "published_date": "2026-10-30T13:03:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "เวที \"DPU\" ส่องแสงเจิดจรัส เปิดตัวทูตกิจกรรม \"DPU Brand Ambassador 2026\" ศักยภาพรอบด้าน",
+      "source": "Sanook News",
+      "url": "https://www.sanook.com/news/9910618/",
+      "published_date": "2026-10-30T09:49:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Amnesty chief: Cambodian state ‘probably complicit’ in scam compounds",
       "source": "Khaosod English",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Myanmar’s detained leader Aung San Suu Kyi traded health concerns with her son in their first call in 5 years",
+      "title": "Six Cambodians arrested for illegal border crossing in Chanthaburi",
       "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/news/international/2026/10/24/myanmars-detained-leader-aung-san-suu-kyi-traded-health-concerns-with-her-son-in-their-first-call-in-5-years/",
-      "published_date": "2026-10-24T12:23:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Ministry of Foreign Affairs confirms that the bidding for the production and service of producing e-passports is transparent. After someone filed an appeal",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/foreign/news_5946690",
-      "published_date": "2026-10-24T10:33:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/10/30/six-cambodians-arrested-for-illegal-border-crossing-in-chanthaburi/",
+      "published_date": "2026-10-30T11:22:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Mae Sot troops on alert as Myanmar fighting spills over border",
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Throwing punches into the corner - society agrees, solving the war between the two institutions.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/newspaper-column/relevant/news_10450918",
-      "published_date": "2026-10-26T11:54:02+00:00",
-      "category": "Military"
+      "title": "GULF คว้า Deal of the Year จาก SET Awards 2026 ชูความสำเร็จดีลควบรวม Gulf Energy–INTUCH",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/biz-movement/news-2088559",
+      "published_date": "2026-10-30T10:20:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Dhanarak dips its toe in solar cells",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345399/dhanarak-dips-its-toe-in-solar-cells",
+      "published_date": "2026-10-30T07:12:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "PM denies solar project favours big firms",
@@ -410,18 +424,81 @@
       "category": "Energy"
     },
     {
-      "title": "2Senator Sunthorn-Nantana Advise the government to stop singing and dancing and hasten to solve people's problems. Expensive oil, cheap labor",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5950480",
-      "published_date": "2026-10-27T11:42:44+00:00",
-      "category": "Energy"
+      "title": "Asset World adds Ruby to hotel portfolio",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345384/asset-world-adds-ruby-to-hotel-portfolio",
+      "published_date": "2026-10-30T13:08:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Treerat slams the government's decision to reduce E20-B20 oil, not to the point, insists on reducing B7 diesel oil, Sohol 91-95.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5950399",
-      "published_date": "2026-10-27T11:00:53+00:00",
-      "category": "Energy"
+      "title": "Year-end tourism campaigns expected to generate B630m",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345335/yearend-tourism-campaigns-expected-to-generate-b630m",
+      "published_date": "2026-10-30T11:59:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "High hopes Udon Thani horticulture expo will justify cost",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3345375/high-hopes-udon-thani-horticulture-expo-will-justify-cost",
+      "published_date": "2026-10-30T11:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ปิดช่องโหว่ทิ้งงาน ! รัฐบังคับวาง Bank Guarantee 50,000 บาท ผู้รับเหมาโซลาร์ภาคประชาชน",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/economic/news-2088666",
+      "published_date": "2026-10-30T10:59:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MTC ขายหุ้นกู้ Social Bond มูลค่า 4,000 ล้าน หมดเกลี้ยง",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2088579",
+      "published_date": "2026-10-30T09:52:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AWC เขย่าตลาดทุน ปั้น “AWR” ทุบสถิติรีท IPO ใหญ่สุดในไทย",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/business/news-2088566",
+      "published_date": "2026-10-30T09:48:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "GULF Wins Deal of the Year at SET Awards 2026 Recognized for Successful Strategic Amalgamation",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/30/gulf-wins-deal-of-the-year-at-set-awards-2026-recognized-for-successful-strategic-amalgamation/",
+      "published_date": "2026-10-30T09:07:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US midterm elections set to impact Thai economy",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345420/us-midterm-elections-set-to-impact-thai-economy",
+      "published_date": "2026-10-30T04:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CPN launches B800m Disney campaign at malls nationwide",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345415/cpn-launches-b800m-disney-campaign-at-malls-nationwide",
+      "published_date": "2026-10-30T03:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BBLAM urges investors to diversify portfolios",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345406/bblam-urges-investors-to-diversify-portfolios",
+      "published_date": "2026-10-30T03:10:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AI adoption lifts local digital economy",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345401/ai-adoption-lifts-local-digital-economy",
+      "published_date": "2026-10-30T02:10:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "ค้าปลีกญี่ปุ่นลุ้น Tax Refund หนุนดีมานด์นักช็อปต่างชาติพุ่ง",
@@ -435,6 +512,13 @@
       "source": "Thai Post",
       "url": "https://www.thaipost.net/economy-news/1098229/",
       "published_date": "2026-10-30T01:20:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Real estate recovery drives wider green energy push",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345356/real-estate-recovery-drives-wider-green-energy-push",
+      "published_date": "2026-10-29T22:43:00+00:00",
       "category": "Economy"
     },
     {
@@ -480,88 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "‘Sin tax’ revenue shake-up draws fire",
+      "title": "Thailand must not yield to China over Uyghurs, Amnesty chief says",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/10/30/thailand-must-not-yield-to-china-over-uyghurs-amnesty-chief-says/",
+      "published_date": "2026-10-30T12:10:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "เบซินส์ เฮลธ์แคร์ ร่วมส่งเสริม Longevity สร้างความเข้าใจเรื่องฮอร์โมน งาน Eldergy Festival 2026",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/pr-news/news_10455923",
+      "published_date": "2026-10-30T12:06:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "iLaw chief seeks dismissal of PM defamation case",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3345645/sin-tax-revenue-shakeup-draws-fire",
-      "published_date": "2026-10-29T04:15:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/politics/3345381/ilaw-chief-seeks-dismissal-of-pm-defamation-case",
+      "published_date": "2026-10-30T11:45:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Flood fears threaten Hat Yai tourism resurgence",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3345530/flood-fears-threaten-hat-yai-tourism-resurgence",
-      "published_date": "2026-10-29T03:57:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "SCBAM eyes 25% increase in assets within 3 years",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3345505/scbam-eyes-25-increase-in-assets-within-3-years",
-      "published_date": "2026-10-29T03:55:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Steelmaker calls for infrastructure push",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3345455/steelmaker-calls-for-infrastructure-push",
-      "published_date": "2026-10-29T03:51:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of Thailand upgrades 2026 GDP forecast",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3345445/bank-of-thailand-upgrades-2026-gdp-forecast",
-      "published_date": "2026-10-29T03:38:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Urgent! NSC tells false news to stock up on 'food and medicine' for 72 hours in response to events in the Middle East.",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/x-cite-news/1097526/",
-      "published_date": "2026-10-29T02:12:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'Warawut' wade through toxic waste, pushing for money laundering laws, seizing assets of nominees",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/general-news/1097514/",
-      "published_date": "2026-10-29T02:08:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'Suchat' is serious! Industrial waste was found mixed with Chonburi community waste. The DPO filed a complaint. Hurry to find the root cause.",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/public-relations-news/1097503/",
-      "published_date": "2026-10-29T02:01:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Haier invests 5,250 million baht to set up a washing machine factory in Rayong.",
+      "title": "เปิด 2 มุมคิด ปมรื้อภาษีจัดสรร 4 กองทุน ดึงเงินเข้าคลังหรือคงอิสระ",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/business/news-2086355",
-      "published_date": "2026-10-29T01:28:00+00:00",
-      "category": "Economy"
+      "url": "https://www.prachachat.net/economic/news-2088580",
+      "published_date": "2026-10-30T11:01:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The value of the baht today (29 Oct.) opened the market at 33.75 baht. Latest analysis.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2087561",
-      "published_date": "2026-10-29T01:01:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The first MacBook Pro 'touch screen' specs revealed uses the M5 Pro-M5 Max chip, starting at 104,900 baht.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/tech/news-2087555",
-      "published_date": "2026-10-29T00:59:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Opening a big deal PTTGC-SCGC combining petrochemical businesses Create a 186 billion joint venture company",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2087556",
-      "published_date": "2026-10-29T00:53:17+00:00",
-      "category": "Economy"
+      "title": "Binance TH says customer assets safe, suspends deposits and withdrawals after nearly US$6.3 billion hack",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/business/2026/10/30/binance-th-says-customer-assets-safe-suspends-deposits-and-withdrawals-after-nearly-us6-3-billion-hack/",
+      "published_date": "2026-10-30T10:14:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "​The Coffee, Time, a Judge, and the Pledge of Thailand’s Most Prominent Political Prisoner Arnon Nampa",
@@ -666,41 +701,6 @@
       "source": "Thai Post",
       "url": "https://www.thaipost.net/district-news/1097482/",
       "published_date": "2026-10-29T01:43:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rain hits Phuket, flooding in many places The municipality issues a warning about 'red flags' for lifting things to high places.",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/district-news/1097443/",
-      "published_date": "2026-10-29T01:42:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sadly, young women gathered to see an accident near their home before their knee collapsed. The deceased was her husband. Was hit by a van while cycling home.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5952346",
-      "published_date": "2026-10-29T01:18:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Concerned for flood victims in Phuket Ordered to expedite relief according to the National Disaster Insurance Program.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5952339",
-      "published_date": "2026-10-29T01:15:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Land prices in 'Bangkok-metropolitan area' revive, 'electric train-M82' pushes up by a whole lot.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/real-estate/news-2086520",
-      "published_date": "2026-10-29T00:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "There is heavy rain in the south. Prachuap, Chumphon and Surat, Phuket-Bangkok are still not spared. Be careful of gusts of wind and thunderstorms.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5952323",
-      "published_date": "2026-10-29T00:35:11+00:00",
       "category": "Local Events"
     }
   ]
