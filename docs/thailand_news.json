@@ -1,6 +1,6 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-10-31T15:55:09.257666+00:00",
+  "last_updated": "2026-11-01T02:04:51.559483+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Border with Cambodia to remain shut amid concerns",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346169/border-with-cambodia-to-remain-shut-amid-concerns",
+      "published_date": "2026-10-31T21:47:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "\"Sophon\" launches a major operation, the '60 Day War before the New Year', to wipe out drugs in 6 pilot districts of Buriram.",
       "source": "Thai Post",
       "url": "https://www.thaipost.net/public-relations-news/1099271/",
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "The most distressed woman, her military husband had an affair with the deputy director, caught her at the hotel. What's even more shocking is that the two are cousins.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10452240",
-      "published_date": "2026-10-27T15:37:28+00:00",
-      "category": "Military"
+      "title": "Thailand, Bhutan sign three deals",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346184/thailand-bhutan-sign-three-deals",
+      "published_date": "2026-10-31T22:32:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Anutin defends govt solar rooftop loan plan",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346109/anutin-defends-govt-solar-rooftop-loan-plan",
+      "published_date": "2026-10-31T22:14:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "\"Suchat\" orders the Energy Regulatory Commission to follow up on environmental rehabilitation after the continuous flooding in Ang Thong. Recently, the situation has returned to normal, providing EM to help the people.",
@@ -410,20 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "GULF คว้า Deal of the Year จาก SET Awards 2026 ชูความสำเร็จดีลควบรวม Gulf Energy–INTUCH",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/biz-movement/news-2088559",
-      "published_date": "2026-10-30T10:20:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dhanarak dips its toe in solar cells",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3345399/dhanarak-dips-its-toe-in-solar-cells",
-      "published_date": "2026-10-30T07:12:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Young woman hires a maid through a popular app for 4 hours, like she didn't clean it. Plus he says he's afraid of dogs.",
       "source": "Khaosod",
       "url": "https://www.khaosod.co.th/special-stories/news_10456867",
@@ -536,6 +536,13 @@
       "category": "Economy"
     },
     {
+      "title": "Tech sell-off and Binance hack rattle investors",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3345786/tech-selloff-and-binance-hack-rattle-investors",
+      "published_date": "2026-10-31T03:25:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "1 month anniversary of the flooding in Bangkok. Latest statistics revealed. Approval of relief funds exceeds 4,000 million baht.",
       "source": "Prachachat Turakij",
       "url": "https://www.prachachat.net/news/news-2088821",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Beautiful girl stirs rice! So loud that the store was full of customers. But the owner hurriedly ordered him to stop working. Revealing your identity is even more surprising.",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9910662/",
-      "published_date": "2026-10-31T02:53:58+00:00",
-      "category": "Economy"
+      "title": "Thap Lan land dispute 90% resolved, says minister Suchart",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346144/thap-lan-land-dispute-90-resolved-says-minister-suchart",
+      "published_date": "2026-11-01T00:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Kamnan Nok' gets 3 years in jail for bid-rigging",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346274/kamnan-nok-gets-3-years-in-jail-for-bidrigging",
+      "published_date": "2026-10-31T23:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM says he's not dodging censure",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/politics/3346164/pm-says-hes-not-dodging-censure",
+      "published_date": "2026-10-31T23:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Groups warn on deportation of two Uyghurs",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346179/groups-warn-on-deportation-of-two-uyghurs",
+      "published_date": "2026-10-31T22:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police prepare to call in Rukchanok, operator of Godd Dam FB page",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/politics/3346159/police-prepare-to-call-in-rukchanok-operator-of-godd-dam-fb-page",
+      "published_date": "2026-10-31T22:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gunmen hunted over school director's murder",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346264/gunmen-hunted-over-school-directors-murder",
+      "published_date": "2026-10-31T21:28:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Natthaphong leads the People's Health Office to join the ceremony to worship the Phra Samut Chedi, walk the market and listen to the people's voices.",
@@ -659,48 +701,6 @@
       "source": "Thai Post",
       "url": "https://www.thaipost.net/district-news/1099184/",
       "published_date": "2026-10-31T12:10:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "93 tonnes of narcotics incinerated",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3346056/93-tonnes-of-narcotics-incinerated",
-      "published_date": "2026-10-31T11:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atthachak Satyanurak I The Politics of Hate Khun Blue's puppet government I Two-color democracy",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/matichon-tv/news_5955175",
-      "published_date": "2026-10-31T11:42:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bum Panadda brought evidence to the police to give evidence in the forest invasion case before the deadline, insisting on innocence. Ready to fight and prove the truth",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/crime/news_5956184",
-      "published_date": "2026-10-31T11:12:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chiang Mai health worker found dead in irrigation canal after overnight disappearance",
-      "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/news/2026/10/31/chiang-mai-health-worker-found-dead-in-irrigation-canal-after-overnight-disappearance/",
-      "published_date": "2026-10-31T10:28:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vietnamese women arrested for prostitution on Sukhumvit Rd",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3346030/vietnamese-women-arrested-for-prostitution-on-sukhumvit-rd",
-      "published_date": "2026-10-31T09:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Captain Cat joins hands with Vajiravudh to move forward with setting the standard for Miss Thailand 2027.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/biz-movement/news-2088916",
-      "published_date": "2026-10-31T08:57:06+00:00",
       "category": "Local Events"
     }
   ]
