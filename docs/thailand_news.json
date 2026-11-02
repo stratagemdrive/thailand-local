@@ -1,6 +1,6 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-11-01T16:57:17.925502+00:00",
+  "last_updated": "2026-11-02T02:18:32.060030+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -424,6 +424,55 @@
       "category": "Energy"
     },
     {
+      "title": "ทองคำเสี่ยงร่วงต่อ! ชี้แรงขายอาจยังไม่จบ จับตาแนวรับ 61,000 บาท ลุ้นยืนเหนือ 6 หมื่น",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/economics/news_10457754",
+      "published_date": "2026-11-02T00:09:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rice exports face mounting headwinds",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3346760/rice-exports-face-mounting-headwinds",
+      "published_date": "2026-11-01T22:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Foundation faces B1m query",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346581/foundation-faces-b1m-query",
+      "published_date": "2026-11-01T22:09:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fresh crackdown on illegal dumping",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346631/fresh-crackdown-on-illegal-dumping",
+      "published_date": "2026-11-01T22:04:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt readies B100 weekday travel deal",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346616/govt-readies-b100-weekday-travel-deal",
+      "published_date": "2026-11-01T21:56:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Crypto scams cause highest fraud losses, ACSC says",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346860/crypto-scams-cause-highest-fraud-losses-acsc-says",
+      "published_date": "2026-11-01T21:42:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt eyes high-income economy status 'by 2037'",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3346865/govt-eyes-highincome-economy-status-by-2037",
+      "published_date": "2026-11-01T21:02:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "NIDA Poll shows that 33% of people oppose cutting the budget of 'Thai PBS', fearing political interference and loss of independence.",
       "source": "Prachachat Turakij",
       "url": "https://www.prachachat.net/news/news-2089096",
@@ -515,53 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Ubon Ratchathani buyer pays 10 million baht for star fighting cock “F16”",
-      "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/featured/2026/11/01/ubon-ratchathani-buyer-pays-10-million-baht-for-star-fighting-cock-f16/",
-      "published_date": "2026-11-01T08:49:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "SOAR Ocean Club supports Thai tourism towards quality.",
+      "title": "กทปส. คว้าตัว “เต๋า เศรษฐพงศ์” ลุยเจาะ 6 เสน่ห์ความเป็นไทย ใน “Thai Soft Power: Inspiring the World”",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/business/news-2088138",
-      "published_date": "2026-11-01T08:26:00+00:00",
-      "category": "Economy"
+      "url": "https://www.prachachat.net/biz-movement/public-relations/news-2088506",
+      "published_date": "2026-11-02T01:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Udon Thani horticultural expo opens",
+      "title": "Thailand eyes status as AI medical hub",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3346509/udon-thani-horticultural-expo-opens",
-      "published_date": "2026-11-01T07:48:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/business/general/3346775/thailand-eyes-status-as-ai-medical-hub",
+      "published_date": "2026-11-01T22:25:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Yotchanan-Chunlapan-Watcharaphon Opening the Udon Thani World Horticulture, highlighting 3 missions 'Growing Life, Economy, Future'",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/local-economy/news-2089002",
-      "published_date": "2026-11-01T06:36:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Big real estate companies invade 'Kaset-Sena' to buy 'land and shophouses' to compete for condominium campuses.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/real-estate/news-2088208",
-      "published_date": "2026-11-01T06:11:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Drug shipment seized on Mekong River bank",
+      "title": "Betting big on small AI",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3346501/drug-shipment-seized-on-mekong-river-bank",
-      "published_date": "2026-11-01T05:28:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/business/general/3346889/betting-big-on-small-ai",
+      "published_date": "2026-11-01T22:20:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "B10m fighting cock",
+      "title": "Robot used in new heart surgery",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3346499/b10m-fighting-cock",
-      "published_date": "2026-11-01T04:38:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3346750/robot-used-in-new-heart-surgery",
+      "published_date": "2026-11-01T22:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nation slips in rule of law rank",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346880/nation-slips-in-rule-of-law-rank",
+      "published_date": "2026-11-01T22:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Short circuit risk' remains, university says",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346874/short-circuit-risk-remains-university-says",
+      "published_date": "2026-11-01T21:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anutin invites Thais to invest in Bhutan",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3346596/anutin-invites-thais-to-invest-in-bhutan",
+      "published_date": "2026-11-01T21:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No 'secret deal' for Thaksin",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/politics/3346566/no-secret-deal-for-thaksin",
+      "published_date": "2026-11-01T21:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt gets low marks on drugs, graft",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/politics/3346591/govt-gets-low-marks-on-drugs-graft",
+      "published_date": "2026-11-01T21:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prudential links climate risks to financial security",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3346810/prudential-links-climate-risks-to-financial-security",
+      "published_date": "2026-11-01T19:08:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Caught at Sadao checkpoint Police Lieutenant General Noppasin Songkhla Immigration ordered to join the investigation to arrest a young man in a case of public fraud and money laundering.",
@@ -631,76 +701,6 @@
       "source": "Matichon",
       "url": "https://www.matichon.co.th/local/news_5957219",
       "published_date": "2026-11-01T12:34:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "With deep sorrow, the old monk, 90 years old, has been found. He did not see the alms bowl and notified the officials who searched for 3 days and found a body that had fallen off a cliff.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10457618",
-      "published_date": "2026-11-01T12:16:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Accelerate the resolution of fishing crew issues He fell into the sea before becoming a corpse. After finding a head wound",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10457601",
-      "published_date": "2026-11-01T11:55:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 19-year-old boy was tricked and attacked. before running for his life Falls into a canal and drowns to death",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10457506",
-      "published_date": "2026-11-01T11:26:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pasin reveals 3 high-speed airports Looks like it hasn't reached the shore, urging the government to explain the broken contract and asking for the person responsible.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/politics/news_10457568",
-      "published_date": "2026-11-01T11:21:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyber police raid Krabi Breaking down the base of gambling website 'pharuey', arresting the admin, finding more than 140,000 members, turnover of 120 million per year.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/crime/news_5957159",
-      "published_date": "2026-11-01T11:21:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Throwing punches into the corner – it's all about confidence.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/newspaper-column/relevant/news_10457192",
-      "published_date": "2026-11-01T11:15:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy Spokesman of the Democrat Party is concerned that high-speed rail at 3 airports may not reach the shore. Who is responsible? Urges the government to review the solution.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5957089",
-      "published_date": "2026-11-01T10:51:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the Thai side, 17 houses were damaged. The Burmese flew two bombs that hit the Karen base. The force of the explosion was 500 pounds.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10457523",
-      "published_date": "2026-11-01T10:50:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Namtok Phlio National Park officials Intensive patrols arrest 2 Cambodians carrying rifles with scopes. Sneaking into the forest to hunt",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10457515",
-      "published_date": "2026-11-01T10:48:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transforming All for Education 'The world changes, education must change'",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/biz-movement/news-2088497",
-      "published_date": "2026-11-01T09:31:46+00:00",
       "category": "Local Events"
     }
   ]
