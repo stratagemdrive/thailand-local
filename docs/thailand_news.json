@@ -1,8 +1,22 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-11-08T02:11:38.225894+00:00",
+  "last_updated": "2026-11-08T16:53:44.111542+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "“เซีย จำปาทอง” ชี้ปมแรงงาน MOU เบรกวาทกรรมต่างชาติแย่งงาน ย้ำเกิดจาก demand นายจ้าง",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/politics/news-2093230",
+      "published_date": "2026-11-08T13:57:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "กทม. ยกระดับอัตลักษณ์ท้องถิ่นสู่สากล MOU ภาคเอกชน ขับเคลื่อนเศรษฐกิจฐานราก 50 เขต",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/biz-movement/news-2093190",
+      "published_date": "2026-11-08T12:21:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cambodia shows off its work in fighting scams! Withdraw casino license linked to Prince Group - tens of billions seized",
       "source": "Khaosod",
@@ -127,20 +141,6 @@
       "source": "Khaosod",
       "url": "https://www.khaosod.co.th/politics/news_10460138",
       "published_date": "2026-11-03T17:36:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sihasak discusses Wang Yi's preparations for a visit to the Chinese Prime Minister. Hopes to buy rice as promised. Next year there will be a meeting of the Minister of Defense and Minister of Foreign Affairs of the two countries for the first time.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/foreign/news_5960297",
-      "published_date": "2026-11-03T16:11:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sihasak spoke to the Minister of Foreign Affairs of Myanmar. Promise to warn the soldiers Avoid fighting on the Thai border",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5960187",
-      "published_date": "2026-11-03T14:06:28+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "Thailand to receive 13 more second-hand KiHa 100 trains from Japan",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/transpo/2026/11/08/thailand-to-receive-13-more-second-hand-kiha-100-trains-from-japan/",
+      "published_date": "2026-11-08T09:16:25+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Oil prices today (8 Nov. '26) Check the latest diesel-gasohol prices.",
       "source": "Prachachat Turakij",
       "url": "https://www.prachachat.net/news/news-2093070",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "New Sky opens On Nut waste disposal plant, 1,000 tons, producing 35 megawatts of electricity.",
+      "title": "สราวุฒิ อยู่วิทยา ชู ‘พาร์ตเนอร์ชิป’ จิ๊กซอว์บุกเอเชีย",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2091858",
-      "published_date": "2026-11-05T10:16:52+00:00",
-      "category": "Energy"
+      "url": "https://www.prachachat.net/business/news-2092123",
+      "published_date": "2026-11-08T11:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thai customs seize 1,200 packs of matcha worth 853,400 baht",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/featured/2026/11/08/thai-customs-seize-1200-packs-of-matcha-worth-853400-baht/",
+      "published_date": "2026-11-08T07:02:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Permanent Secretary of the Treasury explains 3 benefits of 'Public Solar' and pulls 3 government banks to provide loans.",
@@ -550,18 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "Internal trade, hit the 'Must Chom Market - Village trade' to revive the trading community. Loy Krathong begins on 24 Nov.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5966216",
-      "published_date": "2026-11-07T11:18:15+00:00",
-      "category": "Economy"
+      "title": "นายกฯ เปิดงาน Amazing Thailand Grand Diwali Festival 2026 ย้ำสายสัมพันธ์ไทย–อินเดีย",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/biz-movement/news-2093217",
+      "published_date": "2026-11-08T13:41:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BoT D-Day \"Stablecoin\" baht to organize “Money exchange business” extracts gray capital",
+      "title": "นายกฯ เปิดงาน ดิวาลี 2026 ตอกย้ำสายสัมพันธ์ไทย-อินเดีย ส่งเสริมการท่องเที่ยวเชิงวัฒนธรรม",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/politics/news_10465212",
+      "published_date": "2026-11-08T12:44:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Encroaching buildings demolished at Phuket's Freedom beach",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3351099/encroaching-buildings-demolished-at-phukets-freedom-beach",
+      "published_date": "2026-11-08T10:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Black panther seen again in Kaeng Krachan park",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3351094/black-panther-seen-again-in-kaeng-krachan-park",
+      "published_date": "2026-11-08T09:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "บูม Health & Wellness ในเวที WTM 2026 ปลุกตลาด UK-ยุโรป",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2092420",
-      "published_date": "2026-11-07T10:47:00+00:00",
-      "category": "Economy"
+      "url": "https://www.prachachat.net/business/news-2092119",
+      "published_date": "2026-11-08T09:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alcohol ban on Buddhist holy days lifted for touristy venues",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3351064/alcohol-ban-on-buddhist-holy-days-lifted-for-touristy-venues",
+      "published_date": "2026-11-08T09:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lampang elephant centre to host free three-day open house in December",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/life/2026/11/08/lampang-elephant-centre-to-host-free-three-day-open-house-in-december/",
+      "published_date": "2026-11-08T08:33:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Giant 4.3-metre Chao Phraya giant devil ray found dead in Chonburi",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/life/2026/11/08/giant-4-3-metre-chao-phraya-giant-devil-ray-found-dead-in-chonburi/",
+      "published_date": "2026-11-08T07:42:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Overflowing Phuket landfill closed amid mounting crisis",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3351036/overflowing-phuket-landfill-closed-amid-mounting-crisis",
+      "published_date": "2026-11-08T06:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poll: Most Thais not alarmed by need-to-stockpile warnings",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3351029/poll-most-thais-not-alarmed-by-needtostockpile-warnings",
+      "published_date": "2026-11-08T04:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two foreigners held in Phuket",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3350990/two-foreigners-held-in-phuket",
+      "published_date": "2026-11-08T02:06:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Forest hoping for victory over Man City It will be a turning point for the team to come back strong continuously.",
@@ -624,83 +701,6 @@
       "source": "Thai Post",
       "url": "https://www.thaipost.net/general-news/1103942/",
       "published_date": "2026-11-08T00:19:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meteorological Department Announcement No. 14: Unstable weather, heavy to very heavy rain.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10464532",
-      "published_date": "2026-11-07T23:53:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Send 'Panadda and her husband' to prison. God is too weak - court decides high sentence Police found a transfer amount of 815 million. Withdraw 527 million baht for your own use. Bum claims confusion over disbursement",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5966265",
-      "published_date": "2026-11-07T23:45:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Today's weather conditions: Meteorological Department releases names of 36 provinces, warning of increased rain.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10464523",
-      "published_date": "2026-11-07T23:35:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The president of the appeals court gave a new decision in the Hua Suea case. People can sue the Election Commission. Anutin counters 'Blue's arrest', insists he cannot order the Upper House.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5966258",
-      "published_date": "2026-11-07T23:30:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pattaya scam raid nets eight",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3350976/pattaya-scam-raid-nets-eight",
-      "published_date": "2026-11-07T23:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prime minister denies 'blue takeover' of Senate",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3350794/prime-minister-denies-blue-takeover-of-senate",
-      "published_date": "2026-11-07T22:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parit plans legal action against EC",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/politics/3350754/parit-plans-legal-action-against-ec",
-      "published_date": "2026-11-07T22:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shaking up the old flood model",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3350954/shaking-up-the-old-flood-model",
-      "published_date": "2026-11-07T22:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TCC warns on airport warehouse backlog risks",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3350814/tcc-warns-on-airport-warehouse-backlog-risks",
-      "published_date": "2026-11-07T21:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man City focused on controlling the ball, focused on showing, not focusing on shooting, losing 1-3 to 'Forest', making a bad record, losing 3 matches in the league.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/sport/footballinter/footballinterengland/news_5966423",
-      "published_date": "2026-11-07T19:24:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Most tragic, the caretaker lost sight of him for a moment and a 2-year-old child drowned in the pool and died. After taking them out to collect old things to sell.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10464507",
-      "published_date": "2026-11-07T17:57:31+00:00",
       "category": "Local Events"
     }
   ]
