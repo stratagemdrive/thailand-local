@@ -1,8 +1,29 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-11-08T16:53:44.111542+00:00",
+  "last_updated": "2026-11-09T02:34:12.083429+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "NSC meets to assess readiness",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3351416/nsc-meets-to-assess-readiness",
+      "published_date": "2026-11-09T00:58:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thailand Post offers tool to manage EU export rules",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3351360/thailand-post-offers-tool-to-manage-eu-export-rules",
+      "published_date": "2026-11-08T22:07:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "National Security Council meets to assess readiness",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3351160/national-security-council-meets-to-assess-readiness",
+      "published_date": "2026-11-08T21:36:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "“เซีย จำปาทอง” ชี้ปมแรงงาน MOU เบรกวาทกรรมต่างชาติแย่งงาน ย้ำเกิดจาก demand นายจ้าง",
       "source": "Prachachat Turakij",
@@ -120,27 +141,6 @@
       "source": "Thai Post",
       "url": "https://www.thaipost.net/politics-news/1101196/",
       "published_date": "2026-11-04T02:33:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Phasarin' slams 'Sophon' for eating up the Thai representative quota. In the ASEAN parliamentary arena Discourage and block the 'opposition' from joining",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/politics/news_10460220",
-      "published_date": "2026-11-04T02:20:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Thailand braces for high-impact threats",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3348189/thailand-braces-for-highimpact-threats",
-      "published_date": "2026-11-03T21:27:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sihasak spoke to the Ministry of Foreign Affairs of Myanmar to avoid fighting on the Thai border.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/politics/news_10460138",
-      "published_date": "2026-11-03T17:36:49+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,34 @@
       "category": "Military"
     },
     {
+      "title": "OR กำไรไตรมาส 3 พุ่ง 5.1 พันล้าน โตแรงกว่า 100% รับธุรกิจน้ำมันฟื้น-คุมต้นทุน",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/economics/news_10465005",
+      "published_date": "2026-11-09T02:09:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Offering security in fraught times",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3351380/offering-security-in-fraught-times",
+      "published_date": "2026-11-08T21:54:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy cost crisis mounts",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3351235/energy-cost-crisis-mounts",
+      "published_date": "2026-11-08T21:40:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Call for smart grid outlays to cut carbon",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3351290/call-for-smart-grid-outlays-to-cut-carbon",
+      "published_date": "2026-11-08T21:02:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Thailand to receive 13 more second-hand KiHa 100 trains from Japan",
       "source": "Khaosod English",
       "url": "https://www.khaosodenglish.com/news/transpo/2026/11/08/thailand-to-receive-13-more-second-hand-kiha-100-trains-from-japan/",
@@ -396,32 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Tomorrow I'll add more! Oil prices 6 Nov. Gasoline-gasohol reduced by 1 baht, diesel B7 reduced by 0.75.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5963404",
-      "published_date": "2026-11-05T13:21:16+00:00",
-      "category": "Energy"
+      "title": "Looking beyond tax savings",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/investment/3351340/looking-beyond-tax-savings",
+      "published_date": "2026-11-08T22:08:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "\"Oil Sri Kla Pa?\" Sira posted a picture urging him to take the exam. 'The Border Forest Foundation' for equality",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/politics/news-2092007",
-      "published_date": "2026-11-05T13:05:27+00:00",
-      "category": "Energy"
+      "title": "Ikea promotes small-store concept",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3351260/ikea-promotes-smallstore-concept",
+      "published_date": "2026-11-08T22:03:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The FTI sets the new oil fund rate, effective Nov. 6, subsidizing diesel at 2.37 baht per liter - B20 at 3.91 baht.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5963363",
-      "published_date": "2026-11-05T12:47:59+00:00",
-      "category": "Energy"
+      "title": "K-Asset: Longer lives reshape retirement strategies for Thais",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/investment/3351320/kasset-longer-lives-reshape-retirement-strategies-for-thais",
+      "published_date": "2026-11-08T21:59:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "OR indicates the direction of oil prices is uncertain. Keep an eye on 3 world sceneries There's still 70-80 dollars left. Refineries discuss new price structure",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5963307",
-      "published_date": "2026-11-05T12:10:57+00:00",
-      "category": "Energy"
+      "title": "TAT earmarks budget for year-end foreign markets",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3351300/tat-earmarks-budget-for-yearend-foreign-markets",
+      "published_date": "2026-11-08T21:26:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "สราวุฒิ อยู่วิทยา ชู ‘พาร์ตเนอร์ชิป’ จิ๊กซอว์บุกเอเชีย",
@@ -536,32 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Small, tight waist! Guru shares how to \"breathe for 1 minute\", know it and follow it easily. No equipment required",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9911407/",
-      "published_date": "2026-11-07T13:27:54+00:00",
-      "category": "Economy"
+      "title": "Chamber sounds alarm on food raw material issues",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3351250/chamber-sounds-alarm-on-food-raw-material-issues",
+      "published_date": "2026-11-08T21:57:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SX2026 offers Thai farmers a way to survive. 'Reduce costs - break the debt cycle - create new markets'",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/sd/news-2093043",
-      "published_date": "2026-11-07T12:39:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "F.T.I. joins the government in invading Japan to discuss Thai industry connecting the world chain.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2092714",
-      "published_date": "2026-11-07T12:02:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Check yourself quickly! Dismantling the scam nest of 'establishing a ready-to-use mobile phone production base' in Mae Sot, revealing wage rates and methods for forwarding call gangs",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5966188",
-      "published_date": "2026-11-07T11:51:38+00:00",
-      "category": "Economy"
+      "title": "Police brace for protest convoy in capital",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3351155/police-brace-for-protest-convoy-in-capital",
+      "published_date": "2026-11-08T21:46:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "นายกฯ เปิดงาน Amazing Thailand Grand Diwali Festival 2026 ย้ำสายสัมพันธ์ไทย–อินเดีย",
@@ -687,20 +701,6 @@
       "source": "Prachachat Turakij",
       "url": "https://www.prachachat.net/politics/news-2093073",
       "published_date": "2026-11-08T01:07:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maresca hopes to use the international break to fix the City's weaknesses after losing 3 games in a row.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/sport/footballinter/footballinterengland/news_5966445",
-      "published_date": "2026-11-08T01:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meteorological Department warns southern and western parts of northern and central regions Still dealing with heavy rain",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/general-news/1103942/",
-      "published_date": "2026-11-08T00:19:16+00:00",
       "category": "Local Events"
     }
   ]
