@@ -1,7 +1,7 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-11-10T18:21:31.585263+00:00",
-  "story_count": 100,
+  "last_updated": "2026-11-11T02:43:04.207044+00:00",
+  "story_count": 98,
   "stories": [
     {
       "title": "Thai Activists Review UN Human Rights Recommendations to Thailand",
@@ -270,18 +270,11 @@
       "category": "Military"
     },
     {
-      "title": "'Snatcher Rajamnu' shoots bright bullets Mae Sot border warning After the bullets clashed with Myanmar fell on the Thai side.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10460247",
-      "published_date": "2026-11-04T02:34:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Karen fights with Burmese soldiers Gunfire sounded all night. RPG bullets fall into Thai people's homes. Luckily no one was injured.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/region/news_5960386",
-      "published_date": "2026-11-04T01:50:33+00:00",
-      "category": "Military"
+      "title": "Ex-monk leads convoy demanding cheaper fuel",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3352670/exmonk-leads-convoy-demanding-cheaper-fuel",
+      "published_date": "2026-11-10T23:15:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "World oil prices are down. The Government Housing Bank has announced a reduction in the price of gasoline by 0.50 baht and ordinary high-speed diesel by 1 baht, effective tomorrow.",
@@ -417,11 +410,81 @@
       "category": "Energy"
     },
     {
-      "title": "Data centre push brings promise and peril",
+      "title": "Biofuel consumption soars following excise tax cuts",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3350866/data-centre-push-brings-promise-and-peril",
-      "published_date": "2026-11-07T22:01:00+00:00",
-      "category": "Energy"
+      "url": "https://www.bangkokpost.com/business/general/3352595/biofuel-consumption-soars-following-excise-tax-cuts",
+      "published_date": "2026-11-10T23:29:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Deluge leaves more than water damage",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3352435/deluge-leaves-more-than-water-damage",
+      "published_date": "2026-11-10T22:52:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "KBank targets current clients for growth",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3352635/kbank-targets-current-clients-for-growth",
+      "published_date": "2026-11-10T22:43:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FTI welcomes pickup trade-in scheme",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/motoring/3352520/fti-welcomes-pickup-tradein-scheme",
+      "published_date": "2026-11-10T22:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Analysts welcome stricter data centre regulations",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3352430/analysts-welcome-stricter-data-centre-regulations",
+      "published_date": "2026-11-10T22:21:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "New data centres face closer reviews",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3352390/new-data-centres-face-closer-reviews",
+      "published_date": "2026-11-10T22:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bang Na set to become a key economic hub",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3352680/bang-na-set-to-become-a-key-economic-hub",
+      "published_date": "2026-11-10T22:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Scam losses reach B65.8bn in Thailand",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3352410/scam-losses-reach-b658bn-in-thailand",
+      "published_date": "2026-11-10T21:56:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "NACC flags B50m sports equipment scam",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3352530/nacc-flags-b50m-sports-equipment-scam",
+      "published_date": "2026-11-10T18:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Federation slashes SET index year-end target",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3352525/federation-slashes-set-index-yearend-target",
+      "published_date": "2026-11-10T18:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thai bourse likely to remain range-bound",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3352700/thai-bourse-likely-to-remain-rangebound",
+      "published_date": "2026-11-10T18:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Negotiating criteria for controlling the data center Block brokers",
@@ -487,81 +550,60 @@
       "category": "Economy"
     },
     {
-      "title": "TIA Association adjusts AGM Checklist criteria, emphasizing that listed companies answer questions, encouraging retail investors to gather 10% of the vote to oppose risky deals.",
+      "title": "CIMB THAI เข้มเฝ้าระวังภัยไซเบอร์ 24 ชั่วโมง ใช้ข่าวกรองเครือข่ายอาเซียน พร้อมรายงานภัยคุกคามส่ง ธปท. ทุกเช้า",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2094491",
-      "published_date": "2026-11-10T11:37:23+00:00",
-      "category": "Economy"
+      "url": "https://www.prachachat.net/finance/news-2094639",
+      "published_date": "2026-11-11T02:15:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SEC slams 14 people for manipulating YONG shares on first day of trading, demands payment of 77.87 million, orders trading ban for 8.5 months",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2094473",
-      "published_date": "2026-11-10T10:56:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nvidia and Huang face class-action lawsuit over affair",
+      "title": "Flood defences 'may fail' in future disasters",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3352264/nvidia-and-huang-face-classaction-lawsuit-over-affair",
-      "published_date": "2026-11-10T10:45:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3352370/flood-defences-may-fail-in-future-disasters",
+      "published_date": "2026-11-10T22:40:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Yi Peng Chiang Mai Attracting tourists from over 100 countries, generating billions of baht in economy",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/local-economy/news-2094430",
-      "published_date": "2026-11-10T10:12:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'Thailand' is in the top 10 countries hit by ransomware the most. 'Manufacturing sector' is the main target.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/tech/news-2094420",
-      "published_date": "2026-11-10T10:08:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "New duties approved on goods imported via e-commerce",
+      "title": "Kingdom goes on cyber alert",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3352251/new-duties-approved-on-goods-imported-via-ecommerce",
-      "published_date": "2026-11-10T10:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3352475/kingdom-goes-on-cyber-alert",
+      "published_date": "2026-11-10T22:30:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Treasury adjusts e-Commerce duty up to 30% to support Thai SMEs, expecting additional income of 6.3 billion.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2094396",
-      "published_date": "2026-11-10T09:30:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Russia-Thailand celebrate 130 years of relations, drive \"new mechanism\" to enhance bilateral business-investment cooperation.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2094391",
-      "published_date": "2026-11-10T09:27:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Brokers look to unlock Thailand's Data Center, ready to receive investment in AI, hoping Thai stocks will stand 1,500 points.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2094372",
-      "published_date": "2026-11-10T09:16:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BEM joins in continuing the Kathin Samakkhi tradition for the year 2026.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/biz-movement/public-relations/news-2094371",
-      "published_date": "2026-11-10T09:16:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Narathiwat seizes 349,000 packs of smuggled cigarettes",
+      "title": "Fuel protest poses security headache ahead of Li visit",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3352229/narathiwat-seizes-349000-packs-of-smuggled-cigarettes",
-      "published_date": "2026-11-10T09:14:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bangkokpost.com/thailand/general/3352515/fuel-protest-poses-security-headache-ahead-of-li-visit",
+      "published_date": "2026-11-10T18:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Special holiday for cremation",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3352570/special-holiday-for-cremation",
+      "published_date": "2026-11-10T18:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gender gaps persist across Thai society",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3352630/gender-gaps-persist-across-thai-society",
+      "published_date": "2026-11-10T18:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Honouring 3 top CEOs",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3352660/honouring-3-top-ceos",
+      "published_date": "2026-11-10T18:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NT strengthens network cybersecurity, resilience",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3352655/nt-strengthens-network-cybersecurity-resilience",
+      "published_date": "2026-11-10T18:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Government locks drug dealers Expand results of raids on rental rooms Lots of ice and methamphetamine seized Prepare to send to customers",
@@ -645,62 +687,6 @@
       "source": "Matichon",
       "url": "https://www.matichon.co.th/region/news_5970180",
       "published_date": "2026-11-10T15:09:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A family of 3 people are sick with cancer. The doctor warns them of 5 frugal habits that many households still practice regularly.",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9911687/",
-      "published_date": "2026-11-10T14:30:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Raid and destroy drug store House for rent near Mae Tam intersection Nearly 3 million methamphetamine pills seized. The culprit was the first to escape.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10467744",
-      "published_date": "2026-11-10T14:21:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First time in Thailand! AIS Sport Academy joins with the Faculty of Sports Science, Chulalongkorn University, to raise the level of Thai League personnel.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/sport/news_5969497",
-      "published_date": "2026-11-10T14:07:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Depressed, blind mother decides to inform the police to arrest her son for being drunk on drugs and thinking ill of his younger sister. Worried that something bad will happen",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10467740",
-      "published_date": "2026-11-10T14:05:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sub-inspector of the sub-district headman explains the issue of accusations that a group attacked teenagers in front of the temple dance stage.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10467695",
-      "published_date": "2026-11-10T13:53:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MRTA board gives green light to 'Kajphajon' to resign, effective 30 Nov., appoints 'Witthaya' as acting governor.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5970159",
-      "published_date": "2026-11-10T13:49:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is sleeping with the window open good for your health? Research reveals what you should know!",
-      "source": "Sanook News",
-      "url": "https://www.sanook.com/news/9911694/",
-      "published_date": "2026-11-10T13:47:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Big Jae' goes to report the person who recorded and shared the audio clip. Damage linked to illegal cream case Police are ready to summon 20 people.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5970138",
-      "published_date": "2026-11-10T13:40:27+00:00",
       "category": "Local Events"
     }
   ]
