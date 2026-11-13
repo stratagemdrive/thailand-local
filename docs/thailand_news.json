@@ -1,8 +1,36 @@
 {
   "country": "Thailand",
-  "last_updated": "2026-11-13T03:19:48.388738+00:00",
+  "last_updated": "2026-11-13T18:13:06.722523+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "'NSC' worried about cyber threats 'DE' shakes up 5 agencies",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/one-newspaper/1108259/",
+      "published_date": "2026-11-13T17:01:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diary points to Myanmar Collaborate on pollution border well",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/one-newspaper/1108244/",
+      "published_date": "2026-11-13T17:01:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Central Group Revealing the historic joint venture plan of 'Central Embassy' towards a Super-luxury Mega Mixed-use Landmark.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/monitor-news/news_10471578",
+      "published_date": "2026-11-13T12:04:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Central Group Joining forces in history, investing 83 billion to build mega mixed-use 'Central Embassy'",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/real-estate/news-2096255",
+      "published_date": "2026-11-13T10:54:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Opening the ASEAN GDP rankings, Thailand ranks 4th, Malaysia is twice as rich, Vietnam close to overtaking.",
       "source": "Khaosod",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Thai Activists Review UN Human Rights Recommendations to Thailand",
-      "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/politics/2026/11/10/thai-activists-review-un-human-rights-recommendations-to-thailand/",
-      "published_date": "2026-11-10T10:04:41+00:00",
-      "category": "Diplomacy"
+      "title": "Urge the southern border governor to take strict control!",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/one-newspaper/1108191/",
+      "published_date": "2026-11-13T17:01:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cabinet gives green light to appoint 'Permanent Secretary of the Ministry of Foreign Affairs' to transfer Big Mot. to be 'Secretary of the SBP.'",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/politics/news-2094381",
-      "published_date": "2026-11-10T09:39:12+00:00",
-      "category": "Diplomacy"
+      "title": "Igor Angelovsky leads a team of 23 Tajik players to Sisaket, ready to compete in the 52nd King's Cup.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/sport-slide/news_5974010",
+      "published_date": "2026-11-13T16:00:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Thailand to send observers to Francophonie Summit in Cambodia",
-      "source": "Khaosod English",
-      "url": "https://www.khaosodenglish.com/news/2026/11/10/thailand-to-send-observers-to-francophonie-summit-in-cambodia/",
-      "published_date": "2026-11-10T09:19:57+00:00",
-      "category": "Diplomacy"
+      "title": "Royal Thai Army opens the history of Khao I Daeng, bringing AOT-TH – foreign media Looking back at the actual area Has helped more than 160,000 Cambodians escape danger.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5974821",
+      "published_date": "2026-11-13T15:01:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sihasak-Dato Sumalee Sitting as vice president of Asian Takraw - \"Halim\" continues to occupy the chairman's chair.",
+      "title": "The hospital director has explained that Nong Ton Khao, Pum, died after a technician came to drill and renovate the room.",
       "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/sports/news_10466654",
-      "published_date": "2026-11-10T02:24:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.khaosod.co.th/around-thailand/news_10471693",
+      "published_date": "2026-11-13T14:38:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hudson aims to lead the 'War Elephants' to victory over Brunei. Supachoke is delighted to be able to play in the King's Cup in his hometown of Sisaket.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/sport/footballlocal/news_5973981",
+      "published_date": "2026-11-13T14:00:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drones at heart of ‘low-altitude economy’",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3354075/drones-at-heart-of-lowaltitude-economy",
+      "published_date": "2026-11-13T12:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thai army highlights past shelter for 160,000 Cambodian refugees amid border dispute",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/news/2026/11/13/thai-army-highlights-past-shelter-for-160000-cambodian-refugees-amid-border-dispute/",
+      "published_date": "2026-11-13T12:17:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "\"Delicious Shop Fair\" brings together more than 80 great shops, famous shops of star artists, invading Siam 20-22 Nov.",
+      "source": "Sanook News",
+      "url": "https://www.sanook.com/news/9911922/",
+      "published_date": "2026-11-13T07:33:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Here it is, 'Panthep' threatens to sue the media for not deleting the clip of 'Sithara', in connection with filing a complaint against Thip - slandering the Guard Foundation.",
@@ -228,60 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Hudson tutors War Elephants tactics Before raising an army to invade Sisaket Prepare to fight in the 52nd King's Cup",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/sport/footballlocal/news_5971901",
-      "published_date": "2026-11-12T03:29:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The National Security Council moves forward with \"Thai First\" to promote national defense industry. Paving the way for Thai products to the world market",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/economics/news_10469325",
-      "published_date": "2026-11-12T03:07:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pollution has overflowed into the river basin, arsenic levels have increased 40 times, and 3,000 Shan State mines have sprung up.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/local-economy/news-2095186",
-      "published_date": "2026-11-12T02:46:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SKR joins hands with the 2nd Army Region to promote 1 year, 1 qualification, increasing educational opportunities.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/education/news_5971792",
-      "published_date": "2026-11-12T01:55:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ice explains why Sophon accused him of being aggressive. Confirming clearly that the President is not neutral. causing Thailand to lose the opportunity to solve the problem of toxins crossing the border",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5971780",
-      "published_date": "2026-11-12T01:25:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cross-border crackdown on scam networks intensifies",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3352999/crossborder-crackdown-on-scam-networks-intensifies",
-      "published_date": "2026-11-12T00:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Attacks in three provinces spur border policy review",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/thailand/general/3353104/attacks-in-three-provinces-spur-border-policy-review",
-      "published_date": "2026-11-11T21:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Unraveling the 'Mano mob', a protracted battle - difficult points",
+      "title": "“Thai energy” a big problem under the new world rules Walking the game of balancing stability-cost-Net Zero",
       "source": "Thai Post",
-      "url": "https://www.thaipost.net/dominate-the-situation-news/1106625/",
-      "published_date": "2026-11-11T17:01:27+00:00",
-      "category": "Military"
+      "url": "https://www.thaipost.net/hi-light/1106169/",
+      "published_date": "2026-11-13T17:30:45+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "TCG showcases 10-month results, total guarantees exceeding 58 billion, going to 'Solar Plus' to support contractors.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5974757",
+      "published_date": "2026-11-13T13:36:33+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "TCG shows results for the first 10 months of 2026, total guarantees exceeding 58 billion, launching 'Solar Plus' worth 1 billion to help SMEs in the vendor group install solar.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/finance/news-2096233",
+      "published_date": "2026-11-13T10:44:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Soaring jet fuel prices bite Thai Airways profits",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/thailand/general/3354005/soaring-jet-fuel-prices-bite-thai-airways-profits",
+      "published_date": "2026-11-13T10:05:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "TTB Drive supports the Thai EV market, revealing new BEV car loans in the first 9 months grew 133%.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/biz-movement/public-relations/news-2096128",
+      "published_date": "2026-11-13T08:45:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "The 'Kamnan Mano' mob is thin! Settling for 5 days, meeting to invade energy on 16 Nov.",
@@ -389,318 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices today (12 Nov.) Check the latest diesel-gasohol prices.",
+      "title": "Bluebik appoints 'Suwapa Charoenying' to sit on the board to drive international growth.",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2095154",
-      "published_date": "2026-11-12T00:38:01+00:00",
-      "category": "Energy"
+      "url": "https://www.prachachat.net/business/news-2096417",
+      "published_date": "2026-11-13T17:51:54+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Please read this.",
+      "title": "\"Bella\" opens up! The point of donating a million baht Join an organization to do good. Look at the picture of Bum as a strong woman. From now on, think again.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/entertainment/news_10472035",
+      "published_date": "2026-11-13T17:21:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "You have to complain!",
       "source": "Thai Post",
-      "url": "https://www.thaipost.net/columnist-people/1106654/",
-      "published_date": "2026-11-11T17:04:41+00:00",
-      "category": "Energy"
+      "url": "https://www.thaipost.net/columnist-people/1108197/",
+      "published_date": "2026-11-13T17:02:16+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Villagers revolt Show decisive power Oppose clean energy power plants Screaming for clean air Give it to your children and grandchildren.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10469095",
-      "published_date": "2026-11-11T16:12:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The FTI sets the new oil fund rate, effective 12 Nov., subsidizing diesel at 1.76 baht per liter - B20 at 2.56 baht.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5971684",
-      "published_date": "2026-11-11T15:04:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hurry to find answers to the phenomenon of sea stars and salps stranding again at Karon Beach. Officials still cannot determine the cause.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10469021",
-      "published_date": "2026-11-11T14:51:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Investigate \"international nominees\" hiding and importing E-Waste waste, ordering 5 ministries to check the route to the disposal plant.",
+      "title": "AURA Q3/69 profit grows 29.8%, consignment portfolio \"gold comes, money goes\" new high hits 11.2 billion.",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2095751",
-      "published_date": "2026-11-13T03:16:39+00:00",
+      "url": "https://www.prachachat.net/finance/news-2096403",
+      "published_date": "2026-11-13T15:00:35+00:00",
       "category": "Economy"
     },
     {
-      "title": "Today's gold price (13 Nov. '26) has been adjusted down 350 baht, gold jewelry is 63,650 baht per baht.",
+      "title": "Kasikorn Bank points out that it will collect e-commerce import taxes of up to 30% to reduce the price gap. But Thai products still compete hard.",
       "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2095760",
-      "published_date": "2026-11-13T03:14:06+00:00",
+      "url": "https://www.prachachat.net/economic/news-2096401",
+      "published_date": "2026-11-13T14:57:44+00:00",
       "category": "Economy"
     },
     {
-      "title": "AP has been in strong form for 9 months, with revenue rising to 35,077 million, flatline, breaking the quarterly record, highest in history.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/real-estate/news-2095776",
-      "published_date": "2026-11-13T03:03:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "SSO points out target for working age people to treat 'office syndrome'. Use rights to 2 funds, withdraw compensation up to 65,000 baht.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/sd/sdplus-hr/news-2095685",
-      "published_date": "2026-11-13T02:57:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Thai stocks today range from 1,484-1,515 points. Krungsri Securities promotes energy stocks and banks to support the market.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2095777",
-      "published_date": "2026-11-13T02:55:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Good news! Thai seas are recovering, a group of 'black tip sharks' are swimming in Maya Bay. record high",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/general-news/1107667/",
-      "published_date": "2026-11-13T02:52:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gold price trend today (13 Nov. 2026) Analysis by YLG Bullion",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2095772",
-      "published_date": "2026-11-13T02:47:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'People and systems must grow to keep up with the business', an important test for Thai SMEs in a day when sales are not the only answer.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2093787",
-      "published_date": "2026-11-13T02:42:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "\"Ben Apache\" exposes illegal loan app Lost nearly 2 million in the past year and were repeatedly threatened and attacked.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/special-stories/news_10470657",
-      "published_date": "2026-11-13T02:39:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Today's gold price, 13 Nov. '26, Gold Traders Association announces today's gold price, latest update, price plummets again.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10470644",
-      "published_date": "2026-11-13T02:12:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'Banjong' praises 'Nabil' for his good skills but needs to strengthen his punch set. Ready to help tutor in camp",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/sport-news/1107641/",
-      "published_date": "2026-11-13T02:08:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gold plummets more than 100 coins, hitting record low in 2019. Pressure on strong dollar, bond yields surge",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2095756",
-      "published_date": "2026-11-13T02:04:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Siam Paragon creates Siam Paragon The Magical Celebration 2027 to attract tourists and stimulate the economy.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/lifestyle/news_5973428",
-      "published_date": "2026-11-13T02:04:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Open the path to growth 'Thai Credit Bank' expands equal financial opportunities",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/biz-movement/public-relations/news-2093559",
-      "published_date": "2026-11-13T02:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The power of love 'dog slaves - cat slaves' booms the 100 billion baht pet market Launching a big capital game - complete service",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/economic/news-2095384",
-      "published_date": "2026-11-13T02:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Close Big C Extra Ramintra after the lease expires. Organize a stock clearance promotion Keep an eye on land in prime locations",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/economy/news_5973417",
-      "published_date": "2026-11-13T01:57:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "AWC shows Q3/2026 profits jump 16% to 1,332 million. Hotel-Commercial grows strongly.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/economics/news_10470640",
-      "published_date": "2026-11-13T01:47:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The value of the baht today (13 Nov. '26) opened the market at 33.90 baht. Latest analysis.",
-      "source": "Prachachat Turakij",
-      "url": "https://www.prachachat.net/finance/news-2095754",
-      "published_date": "2026-11-13T01:33:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Adjusting the minimum wage in 2070 is slow. Waiting for the appointment of a new wage board. Excited! Count the numbers for December in time for use on 1 May.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/quality-life/news_5970058",
-      "published_date": "2026-11-13T01:30:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bracelet \"Romanov Dynasty Sapphire\" 198 carats - auctioned for 166 million baht",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-the-world-news/news_10470003",
-      "published_date": "2026-11-13T01:30:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Social Security Progress team invites you to keep an eye on what they are lurking about, not rushing to check the board election results. Ice Sad announces his next life.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/quality-life/news_5973500",
-      "published_date": "2026-11-13T03:14:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Get to know 'Jensen Huang' from AI chip billionaire to Nvidia scandal",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/hi-light/1107675/",
-      "published_date": "2026-11-13T03:10:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Auntie was shocked when she suddenly heard a loud explosion in the middle of the house. She went out to look and found that tiles had exploded, shattering in 2 places.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10470664",
-      "published_date": "2026-11-13T03:03:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Prime Minister heads the table for the first meeting to prepare for entry into the OECD. Secretary Krisadee is confident that Thailand will become a member according to the 2018 target.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5973472",
-      "published_date": "2026-11-13T02:54:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Accelerating the development of a new generation of cyber experts, building on the model of 'Nong Pond', a Khon Kaen University student who discovered a NASA vulnerability.",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/general-news/1107659/",
-      "published_date": "2026-11-13T02:38:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“One hundred year rain” may be repeated every 20 years, highlighting 3 big problems: water-community-residents Dealing with extreme disasters",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/publicize/news_5973462",
-      "published_date": "2026-11-13T02:32:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Social Security reveals there are people filing objections to the election results. Still unable to certify the new 14-member board. The Election Commission must consider it within 30 days.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/quality-life/news_5973458",
-      "published_date": "2026-11-13T02:28:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Nipit' can't stand it! Stop claiming to do great evil in order to do great good.",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/x-cite-news/1107640/",
-      "published_date": "2026-11-13T02:24:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thai Health Promotion Foundation joins hands with the Royal Society to propose 5 guidelines for creating a sustainable aging society. After finding over 12.2 million elderly people with NCDs",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/monitor-news/news_10466723",
-      "published_date": "2026-11-13T02:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Sirichoke' digs up new evidence! Blocking the DSI plan to investigate the Shuffle gambling case",
-      "source": "Thai Post",
-      "url": "https://www.thaipost.net/x-cite-news/1107617/",
-      "published_date": "2026-11-13T01:55:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The government praises Nong Pond for finding a loophole in NASA and hastening to develop the new generation. Push for the security of the country's digital system",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5973414",
-      "published_date": "2026-11-13T01:42:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drama: Students at a famous university whose dormitory was flooded received 9,000 baht in compensation. They met with the dormitory owner and asked to share 4,000 baht.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10470636",
-      "published_date": "2026-11-13T01:24:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police commander leads team to raid Chiang Dao in the middle of the night After the police specially killed one criminal to stop him from transporting drugs.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/crime/news_5973356",
-      "published_date": "2026-11-13T01:14:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Car repair shop fire A Porsche luxury car and motorcycle burned to the ground. Found several damaged cars.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10470630",
-      "published_date": "2026-11-13T00:54:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meteorological Department Final warning Heavy to very heavy rain Revealing the name of the province that was attacked",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/breaking-news/news_10470613",
-      "published_date": "2026-11-13T00:36:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire in the middle of the night A car repair shop in the Nawamin area burned down 5 cars in a row, leaving only the remains of a Porsche. They are rushing to find the cause.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/news_5973331",
-      "published_date": "2026-11-13T00:35:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prit raises deadline of 60 days to urge Election Commission to release ruling on cheating of senators. Hold your neck, don't say you didn't make it in time. I see there is still time to apply to the Constitutional Court.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/politics/news_5973334",
-      "published_date": "2026-11-13T00:34:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The cold air mass weakens. The Meteorological Department warns that upper Thailand will become hotter. Temperature increases 2 degrees. Heavy rain in the southern region.",
-      "source": "Matichon",
-      "url": "https://www.matichon.co.th/local/quality-life/news_5973327",
-      "published_date": "2026-11-13T00:23:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two husband and wife riding a motorcycle. It sounded like a tire exploding loudly. Wife cries in pain Was shot 6 times by a gunman and died. Husband survived.",
-      "source": "Khaosod",
-      "url": "https://www.khaosod.co.th/around-thailand/news_10470596",
-      "published_date": "2026-11-13T00:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meta launches new ad tools in Thailand",
+      "title": "FSMART reports B390 million in 9-month net profit",
       "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/business/general/3353729/meta-launches-new-ad-tools-in-thailand",
-      "published_date": "2026-11-12T23:30:00+00:00",
+      "url": "https://www.bangkokpost.com/business/general/3354096/fsmart-reports-b390m-in-9month-net-profit",
+      "published_date": "2026-11-13T14:13:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mother is angry and complains to the media Child care center teacher assaults 2-year-old child while eating Claims the child refuses to eat.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10471679",
+      "published_date": "2026-11-13T13:44:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SPRC Q3 profits hit $308 million, benefiting from a 9-month oil stock gain of $750 million.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/business/news-2096383",
+      "published_date": "2026-11-13T13:37:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MCOT accelerates generating new business income and pushes MCOT Land Rama 9 to become a landmark.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/business/news-2096378",
+      "published_date": "2026-11-13T13:22:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Revealing 7 Thai-Chinese deals, transforming opportunities for the Thai economy Push agriculture-EV-labor",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/economic/news-2096306",
+      "published_date": "2026-11-13T13:12:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Niphon invites the Chinese tire giant to set up a factory in Songkhla. Opening a way for farmers in the south to sell tires directly. Pushing rubber wood into the Chinese furniture industry",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5974736",
+      "published_date": "2026-11-13T13:04:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thailand-China signs 8 cooperation agreements to push Thai agricultural products. Raise the automotive-economic level",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5974697",
+      "published_date": "2026-11-13T12:53:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Central Group, Central Pattana announce THB 83 billion luxury mega-project in Bangkok",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/tech/2026/11/13/central-group-central-pattana-announce-thb-83-billion-luxury-mega-project-in-bangkok/",
+      "published_date": "2026-11-13T12:52:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bank employee recounts thrilling moment Heard the sound of brakes dragging. Before the trailer lost control and overturned, sweeping away cars and people, the fire engulfed it.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/region/news_5974699",
+      "published_date": "2026-11-13T12:38:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Surviving AI means holding on to basic skills and our humanity",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/tech/2026/11/13/surviving-ai-means-holding-on-to-basic-skills-and-our-humanity/",
+      "published_date": "2026-11-13T12:36:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thai-Chinese Prime Ministers witness the signing. Exchange of 8 cooperation documents",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/politics/news_10471591",
+      "published_date": "2026-11-13T12:34:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Commerce lays out carpets to check prices of agricultural crops. All of them move well. Paddy rice up 9-55%",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/economy/news_5974695",
+      "published_date": "2026-11-13T12:29:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Suchat thanks and admires the park officials. Lanta Islands Risking his life through waves and winds to help 7 shipwreck victims",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10471583",
+      "published_date": "2026-11-13T12:09:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SONLE wins the world's most beautiful landscape award - closing sales of 200 million",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/uncategorized/news-2096297",
+      "published_date": "2026-11-13T12:02:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Shocked woman buys a gold-plated Buddha amulet from the former mayor of the Subdistrict Administrative Organization for 80,000 baht. It turns out to be a fake. The real price is only 200 baht.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/special-stories/news_10471573",
+      "published_date": "2026-11-13T12:00:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Arrest of \"Oo Khlong Pha\" after expanding the influence of a drug gang in Ranong. Caught in a package containing 10,000 methamphetamine pills.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10472038",
+      "published_date": "2026-11-13T17:36:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Orange Party again",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/columnist-people/1108216/",
+      "published_date": "2026-11-13T17:04:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Grape' about to get cold Police aim to fine Accused Lot 2",
+      "source": "Thai Post",
+      "url": "https://www.thaipost.net/one-newspaper/1108320/",
+      "published_date": "2026-11-13T17:01:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Teng\" complains that \"Sophon\" rejected the letter removing \"Klatham\" from the opposition after the secretary of the House of Representatives sent a document explaining that it did not comply with regulations.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/politics/news_10472030",
+      "published_date": "2026-11-13T16:31:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teng complained that 'Sophon' rejected the letter removing 'Kladham' from the opposition because it did not comply with the rules of the House.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5974872",
+      "published_date": "2026-11-13T16:08:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pheu Thai explains the issue of accepting donations for flood relief. Confirmed that he did not open an account to receive money. Just collecting items to help victims.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/politics/news_10472027",
+      "published_date": "2026-11-13T16:04:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pheu Thai denies accepting donations for flood relief Confirmed that he did not accept money from the party. Indicates that the account has been closed since 2019.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5974856",
+      "published_date": "2026-11-13T15:41:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anutin leads the minister's team to meet the mob and listen to Kamnan Mano's call for a 10 baht reduction in gasoline.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5974824",
+      "published_date": "2026-11-13T14:58:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Li Qiang declares the world faces uncertainty, believes Thailand-China will be stable and unfailing. Strong relationship for more than 2 thousand years",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/heading-news/news_5974771",
+      "published_date": "2026-11-13T13:46:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Already clarified, the crux of the dramatic picture, the road was spray-painted with the message \"Selling drugs\" and put it up for display, flouting the law.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10471646",
+      "published_date": "2026-11-13T13:32:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anutin discusses with the Chinese Prime Minister to expand relations towards future cooperation. Push for high-tech investment Joining forces to defeat scammers",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5974732",
+      "published_date": "2026-11-13T13:15:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Anutin\" hosts dinner for \"Chinese Prime Minister\", believes Thai-China stability will not decline.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/politics/news_10471641",
+      "published_date": "2026-11-13T13:07:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Siriraj Anesthesia Alumni Club mourns Dr. Phuriphong Song-art, calling him a dedicated person - a good role model for his students.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/local/quality-life/news_5974723",
+      "published_date": "2026-11-13T13:00:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM2.5 makes a comeback. Ministry of Public Health warns that from November onwards, dust costs will surge. Bangkok, surrounding areas and central region prepare to cope.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/special-stories/news_10471634",
+      "published_date": "2026-11-13T12:59:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opening the moment of the Prachinese tragedy A tractor-trailer crashed into flames, killing three people. Officials rushed to clear and open the road.",
+      "source": "Khaosod",
+      "url": "https://www.khaosod.co.th/breaking-news/news_10471599",
+      "published_date": "2026-11-13T12:28:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "His Majesty the King reinstated the ranks of two royal officials to Major General-Major.",
+      "source": "Matichon",
+      "url": "https://www.matichon.co.th/politics/news_5974690",
+      "published_date": "2026-11-13T12:04:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NSTDA promotes 'Thailand Skill Bridge' as a way to survive the future job market at SX2026.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/sd/news-2096295",
+      "published_date": "2026-11-13T11:57:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anutin welcomes Chinese Premier Li Qiang to Government House",
+      "source": "Khaosod English",
+      "url": "https://www.khaosodenglish.com/featured/2026/11/13/anutin-welcomes-chinese-premier-li-qiang-to-government-house/",
+      "published_date": "2026-11-13T11:18:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mahidol University joins hands with OpenAI to import world-class technology ChatGPT Edu, the first in Thailand.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/education/news-2096249",
+      "published_date": "2026-11-13T10:51:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prime Minister opens government office to welcome 'Chinese leaders' before discussing official matters with the full group.",
+      "source": "Prachachat Turakij",
+      "url": "https://www.prachachat.net/politics/news-2096231",
+      "published_date": "2026-11-13T10:43:05+00:00",
       "category": "Local Events"
     }
   ]
